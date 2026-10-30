@@ -1,0 +1,10 @@
+﻿screen 1920x1080  dpi 96  Sc 1.0000
+ring centre 960,551  scan radius 150
+expected dot1 at 935,609  expected dot5 at 977,609
+dots (centre x:R-B): n=0  score 0.00
+led at 1264,190 orange pixels 0 (need 8+), green pixels 0 (success screen, need 8+)
+minimap: bolt FOUND at 174,970  dx -12 dy -17 | [344,898 n=18 5x8 skip] [174,970 n=29 8x8 BOLT] [51,973 n=24 7x8 skip] 
+marker: NOT found | 
+camera: CamSteer 1  deg per tick 0.0000 (0 = not calibrated)
+floor clearance (x:depth px, bigger = more open; need >160): left 220 right 220 | 410:100 470:90 530:220 590:85 650:75 950:165 1010:220 1070:100 1130:95 1190:220 1250:195 1310:95 1370:90 1430:90 1490:220 1550:215 
+zero check: white 0 (need 600..3200), orange 0 (need <150), width 0 (need 45..95) -> no 0%

@@ -1,0 +1,4 @@
+﻿screen 1920x1080  region 659,673 601x301
+circle FOUND at (914,841) area=1200px
+cursor at (828,828)
+time: 16 ms

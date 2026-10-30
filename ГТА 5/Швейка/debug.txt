@@ -1,0 +1,45 @@
+﻿screen 1920x1080  region 683,183 682x695
+clusters: 31
+cluster 1 at (1050,249) size=4x9 digits=1 best=1 cost=1649
+cluster 2 at (1269,394) size=14x22 digits=2 best=20 cost=4785
+cluster 3 at (1359,391) size=5x17 digits=1 best=1 cost=925
+cluster 4 at (1288,393) size=21x14 digits=2 best=11 cost=5264
+cluster 5 at (1327,393) size=17x14 digits=2 best=11 cost=5895
+cluster 6 at (1341,393) size=7x13 digits=1 best=8 cost=2931
+cluster 7 at (1086,407) size=14x10 digits=2 best=20 cost=2881
+cluster 8 at (979,416) size=7x10 digits=1 best=3 cost=1858
+cluster 9 at (892,417) size=7x10 digits=1 best=7 cost=916
+cluster 10 at (832,463) size=15x10 digits=2 best=20 cost=2073
+cluster 11 at (935,474) size=14x10 digits=2 best=17 cost=3033
+cluster 12 at (1094,492) size=14x10 digits=2 best=19 cost=3451
+cluster 13 at (1009,496) size=13x10 digits=2 best=13 cost=2974
+cluster 14 at (1142,521) size=9x17 digits=1 best=4 cost=1847
+cluster 15 at (880,543) size=7x10 digits=1 best=6 cost=1788
+cluster 16 at (806,550) size=7x10 digits=1 best=4 cost=947
+cluster 17 at (952,562) size=13x10 digits=2 best=15 cost=3204
+cluster 18 at (1059,562) size=6x10 digits=1 best=3 cost=969
+cluster 19 at (1291,582) size=12x8 digits=1 best=4 cost=1610
+cluster 20 at (1093,627) size=14x10 digits=2 best=14 cost=2702
+cluster 21 at (982,638) size=7x10 digits=1 best=2 cost=872
+cluster 22 at (1268,653) size=16x17 digits=1 best=4 cost=1543
+cluster 23 at (855,652) size=6x10 digits=1 best=5 cost=1282
+cluster 24 at (1119,699) size=14x10 digits=2 best=20 cost=3722
+cluster 25 at (1006,707) size=7x10 digits=1 best=9 cost=1432
+cluster 26 at (808,727) size=5x10 digits=1 best=2 cost=1721
+cluster 27 at (927,766) size=12x10 digits=2 best=20 cost=4532
+cluster 28 at (1106,785) size=14x10 digits=2 best=12 cost=2822
+cluster 29 at (862,786) size=14x10 digits=2 best=20 cost=3702
+cluster 30 at (1350,789) size=7x17 digits=1 best=4 cost=1680
+cluster 31 at (900,828) size=7x20 digits=1 best=4 cost=1720
+number 2 at (982,638) cost=872
+number 7 at (892,417) cost=916
+number 1 at (1359,391) cost=925
+number 4 at (806,550) cost=947
+number 3 at (1059,562) cost=969
+number 5 at (855,652) cost=1282
+number 9 at (1006,707) cost=1432
+number 8 at (1050,249) cost=1786
+number 6 at (880,543) cost=1788
+number 20 at (832,463) cost=2073
+missing: 10 11 12 13 14 15 16 17 18 19 
+time: 391 ms

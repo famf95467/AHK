@@ -1,0 +1,842 @@
+﻿79 FOUND centre=959.5,771.0 Ro=93.5
+109 gm=16 white=1 r=152.5 rays=40 Ro=93.5 v=0 armed=1 target=85.5..91.5
+138 gm=16 white=1 r=147.4 rays=40 Ro=93.5 v=-23 armed=1 target=85.5..91.5
+151 gm=16 white=1 r=146.5 rays=40 Ro=93.5 v=-48 armed=1 target=85.5..91.5
+167 gm=16 white=1 r=144.6 rays=40 Ro=93.5 v=-77 armed=1 target=85.5..91.5
+187 gm=16 white=1 r=142.0 rays=40 Ro=93.5 v=-109 armed=1 target=85.5..91.5
+216 gm=16 white=1 r=139.6 rays=40 Ro=93.5 v=-97 armed=1 target=85.5..91.5
+233 gm=16 white=1 r=137.6 rays=40 Ro=93.5 v=-101 armed=1 target=85.5..91.5
+262 gm=16 white=1 r=135.0 rays=40 Ro=93.5 v=-97 armed=1 target=85.5..91.5
+275 gm=16 white=1 r=133.5 rays=40 Ro=93.5 v=-106 armed=1 target=85.5..91.5
+295 gm=16 white=1 r=131.6 rays=40 Ro=93.5 v=-104 armed=1 target=85.5..91.5
+308 gm=16 white=1 r=130.5 rays=40 Ro=93.5 v=-86 armed=1 target=85.5..91.5
+321 gm=16 white=1 r=129.0 rays=40 Ro=93.5 v=-100 armed=1 target=85.5..91.5
+342 gm=16 white=1 r=126.6 rays=40 Ro=93.5 v=-118 armed=1 target=85.5..91.5
+358 gm=16 white=1 r=125.0 rays=40 Ro=93.5 v=-103 armed=1 target=85.5..91.5
+370 gm=16 white=1 r=124.5 rays=40 Ro=93.5 v=-70 armed=1 target=85.5..91.5
+391 gm=16 white=1 r=121.5 rays=40 Ro=93.5 v=-122 armed=1 target=85.5..91.5
+416 gm=16 white=1 r=118.9 rays=40 Ro=93.5 v=-106 armed=1 target=85.5..91.5
+437 gm=16 white=1 r=116.4 rays=40 Ro=93.5 v=-122 armed=1 target=85.5..91.5
+465 gm=16 white=1 r=113.5 rays=40 Ro=93.5 v=-111 armed=1 target=85.5..91.5
+483 gm=16 white=1 r=112.5 rays=40 Ro=93.5 v=-82 armed=1 target=85.5..91.5
+495 gm=16 white=1 r=111.4 rays=40 Ro=93.5 v=-90 armed=1 target=85.5..91.5
+516 gm=16 white=1 r=109.5 rays=40 Ro=93.5 v=-94 armed=1 target=85.5..91.5
+547 gm=16 white=1 r=105.9 rays=40 Ro=93.5 v=-108 armed=1 target=85.5..91.5
+574 gm=16 white=1 r=103.0 rays=40 Ro=93.5 v=-103 armed=1 target=85.5..91.5
+590 gm=16 white=1 r=101.0 rays=40 Ro=93.5 v=-107 armed=1 target=85.5..91.5
+690 gm=16 white=1 r=99.4 rays=40 Ro=93.5 v=-116 armed=0 target=85.5..91.5
+710 gm=16 white=1 r=91.0 rays=40 Ro=93.5 v=-97 armed=0 target=85.5..91.5
+730 gm=0 white=0 r=91.0 rays=6 Ro=93.5 v=-97 armed=0 target=85.5..91.5
+748 gm=0 white=0 r=91.0 rays=0 Ro=93.5 v=-97 armed=0 target=85.5..91.5
+761 gm=0 white=0 r=91.0 rays=1 Ro=93.5 v=-97 armed=0 target=85.5..91.5
+780 gm=0 white=0 r=91.0 rays=1 Ro=93.5 v=-97 armed=0 target=85.5..91.5
+793 gm=0 white=0 r=91.0 rays=1 Ro=93.5 v=-97 armed=0 target=85.5..91.5
+809 gm=0 white=0 r=91.0 rays=1 Ro=93.5 v=-97 armed=0 target=85.5..91.5
+826 gm=0 white=0 r=91.0 rays=1 Ro=93.5 v=-97 armed=0 target=85.5..91.5
+843 gm=0 white=0 r=91.0 rays=1 Ro=93.5 v=-97 armed=0 target=85.5..91.5
+871 gm=0 white=0 r=91.0 rays=0 Ro=93.5 v=-97 armed=0 target=85.5..91.5
+888 gm=0 white=0 r=91.0 rays=1 Ro=93.5 v=-97 armed=0 target=85.5..91.5
+901 gm=0 white=0 r=91.0 rays=0 Ro=93.5 v=-97 armed=0 target=85.5..91.5
+917 gm=0 white=0 r=91.0 rays=1 Ro=93.5 v=-97 armed=0 target=85.5..91.5
+937 gm=0 white=0 r=91.0 rays=0 Ro=93.5 v=-97 armed=0 target=85.5..91.5
+963 gm=0 white=0 r=91.0 rays=1 Ro=93.5 v=-97 armed=0 target=85.5..91.5
+980 gm=0 white=0 r=91.0 rays=0 Ro=93.5 v=-97 armed=0 target=85.5..91.5
+996 gm=0 white=0 r=91.0 rays=0 Ro=93.5 v=-97 armed=0 target=85.5..91.5
+1016 gm=0 white=0 r=91.0 rays=1 Ro=93.5 v=-97 armed=0 target=85.5..91.5
+1049 LOST (no ring for 300 ms)
+7686 FOUND centre=960.0,771.0 Ro=114.0
+7703 gm=16 white=1 r=167.5 rays=40 Ro=114.0 v=0 armed=1 target=106.0..112.0
+7733 gm=16 white=1 r=163.6 rays=40 Ro=114.0 v=-21 armed=1 target=106.0..112.0
+7760 gm=16 white=1 r=159.6 rays=40 Ro=114.0 v=-74 armed=1 target=106.0..112.0
+7777 gm=16 white=1 r=157.1 rays=40 Ro=114.0 v=-117 armed=1 target=106.0..112.0
+7797 gm=16 white=1 r=155.1 rays=40 Ro=114.0 v=-123 armed=1 target=106.0..112.0
+7822 gm=16 white=1 r=151.4 rays=40 Ro=114.0 v=-120 armed=1 target=106.0..112.0
+7845 gm=16 white=1 r=148.0 rays=40 Ro=114.0 v=-169 armed=1 target=106.0..112.0
+7868 gm=16 white=1 r=145.1 rays=40 Ro=114.0 v=-133 armed=1 target=106.0..112.0
+7886 gm=16 white=1 r=142.5 rays=40 Ro=114.0 v=-144 armed=1 target=106.0..112.0
+7902 gm=16 white=1 r=140.0 rays=40 Ro=114.0 v=-151 armed=1 target=106.0..112.0
+7918 gm=16 white=1 r=138.6 rays=40 Ro=114.0 v=-120 armed=1 target=106.0..112.0
+7934 gm=16 white=1 r=136.1 rays=40 Ro=114.0 v=-141 armed=1 target=106.0..112.0
+7946 gm=16 white=1 r=134.5 rays=40 Ro=114.0 v=-126 armed=1 target=106.0..112.0
+7964 gm=16 white=1 r=132.2 rays=40 Ro=114.0 v=-136 armed=1 target=106.0..112.0
+7979 gm=16 white=1 r=129.9 rays=40 Ro=114.0 v=-142 armed=1 target=106.0..112.0
+7996 gm=16 white=1 r=127.1 rays=40 Ro=114.0 v=-158 armed=1 target=106.0..112.0
+8009 gm=16 white=1 r=126.0 rays=40 Ro=114.0 v=-115 armed=1 target=106.0..112.0
+8094 gm=16 white=1 r=123.0 rays=40 Ro=114.0 v=-152 armed=0 target=106.0..112.0
+8116 gm=16 white=1 r=113.5 rays=40 Ro=114.0 v=-127 armed=0 target=106.0..112.0
+8136 gm=7 white=1 r=114.1 rays=24 Ro=114.0 v=-43 armed=0 target=106.0..112.0
+8154 gm=0 white=0 r=114.1 rays=3 Ro=114.0 v=-43 armed=0 target=106.0..112.0
+8172 gm=0 white=0 r=114.1 rays=0 Ro=114.0 v=-43 armed=0 target=106.0..112.0
+8203 gm=0 white=0 r=114.1 rays=0 Ro=114.0 v=-43 armed=0 target=106.0..112.0
+8232 gm=0 white=0 r=114.1 rays=0 Ro=114.0 v=-43 armed=0 target=106.0..112.0
+8251 gm=0 white=0 r=114.1 rays=0 Ro=114.0 v=-43 armed=0 target=106.0..112.0
+8279 gm=0 white=0 r=114.1 rays=0 Ro=114.0 v=-43 armed=0 target=106.0..112.0
+8297 gm=0 white=0 r=114.1 rays=0 Ro=114.0 v=-43 armed=0 target=106.0..112.0
+8324 gm=0 white=0 r=114.1 rays=0 Ro=114.0 v=-43 armed=0 target=106.0..112.0
+8341 gm=0 white=0 r=114.1 rays=0 Ro=114.0 v=-43 armed=0 target=106.0..112.0
+8358 gm=0 white=0 r=114.1 rays=0 Ro=114.0 v=-43 armed=0 target=106.0..112.0
+8379 gm=0 white=0 r=114.1 rays=0 Ro=114.0 v=-43 armed=0 target=106.0..112.0
+8404 gm=0 white=0 r=114.1 rays=0 Ro=114.0 v=-43 armed=0 target=106.0..112.0
+8438 LOST (no ring for 300 ms)
+9220 FOUND centre=960.5,771.5 Ro=106.5
+9233 BRIGHT 30:70,80,64 38:70,81,63 32:69,78,63 60:67,76,64 29:70,81,64 186:149,151,157 181:83,89,79 27:69,80,65 
+9234 gm=16 white=0 r=114.1 rays=0 Ro=106.5 v=0 armed=1 target=98.5..104.5
+9263 BRIGHT 30:70,80,64 38:70,81,63 32:69,78,63 60:67,76,64 29:70,81,64 186:149,151,157 181:83,89,79 27:69,80,65 
+9264 gm=16 white=0 r=114.1 rays=0 Ro=106.5 v=0 armed=1 target=98.5..104.5
+9301 BRIGHT 30:70,80,64 38:70,81,63 32:69,78,63 60:67,76,64 29:70,81,64 186:149,151,157 181:83,89,79 27:69,80,65 
+9301 gm=16 white=0 r=114.1 rays=0 Ro=106.5 v=0 armed=1 target=98.5..104.5
+9341 BRIGHT 30:70,80,64 38:70,81,63 32:69,78,63 60:67,76,64 29:70,81,64 186:149,151,157 181:83,89,79 27:69,80,65 
+9342 gm=16 white=0 r=114.1 rays=0 Ro=106.5 v=0 armed=1 target=98.5..104.5
+9377 BRIGHT 30:70,80,64 38:70,81,63 32:69,78,63 60:67,76,64 29:70,81,64 186:149,151,157 181:83,89,79 27:69,80,65 
+9378 gm=16 white=0 r=114.1 rays=0 Ro=106.5 v=0 armed=1 target=98.5..104.5
+9409 BRIGHT 30:70,80,64 38:70,81,63 32:69,78,63 60:67,76,64 29:70,81,64 186:148,151,157 181:83,89,79 27:69,80,65 
+9409 gm=16 white=0 r=114.1 rays=0 Ro=106.5 v=0 armed=1 target=98.5..104.5
+9437 BRIGHT 30:70,80,64 38:70,81,63 32:69,78,63 60:67,76,64 29:70,81,64 186:148,151,157 181:83,89,79 27:69,80,65 
+9437 gm=16 white=0 r=114.1 rays=0 Ro=106.5 v=0 armed=1 target=98.5..104.5
+9466 BRIGHT 186:175,175,146 186:165,165,135 32:69,78,63 60:67,76,64 29:70,81,64 186:147,151,157 181:83,89,79 186:162,162,137 
+9467 gm=16 white=0 r=114.1 rays=0 Ro=106.5 v=0 armed=1 target=98.5..104.5
+9506 BRIGHT 184:255,255,255 184:255,255,255 185:255,255,255 185:255,255,255 186:255,255,255 185:255,255,255 185:255,255,255 184:255,255,255 
+9506 gm=16 white=0 r=114.1 rays=0 Ro=106.5 v=0 armed=1 target=98.5..104.5
+9548 gm=16 white=1 r=182.5 rays=38 Ro=106.5 v=0 armed=1 target=98.5..104.5
+9573 gm=16 white=1 r=180.4 rays=40 Ro=106.5 v=-33 armed=1 target=98.5..104.5
+9590 gm=16 white=1 r=178.6 rays=40 Ro=106.5 v=-70 armed=1 target=98.5..104.5
+9611 gm=16 white=1 r=177.1 rays=40 Ro=106.5 v=-75 armed=1 target=98.5..104.5
+9637 gm=16 white=1 r=175.0 rays=40 Ro=106.5 v=-75 armed=1 target=98.5..104.5
+9657 gm=16 white=1 r=173.2 rays=40 Ro=106.5 v=-89 armed=1 target=98.5..104.5
+9685 gm=16 white=1 r=170.1 rays=40 Ro=106.5 v=-96 armed=1 target=98.5..104.5
+9707 gm=16 white=1 r=168.6 rays=40 Ro=106.5 v=-86 armed=1 target=98.5..104.5
+9727 gm=16 white=1 r=167.2 rays=40 Ro=106.5 v=-72 armed=1 target=98.5..104.5
+9744 gm=16 white=1 r=165.0 rays=40 Ro=106.5 v=-100 armed=1 target=98.5..104.5
+9761 gm=16 white=1 r=164.0 rays=40 Ro=106.5 v=-81 armed=1 target=98.5..104.5
+9781 gm=16 white=1 r=162.0 rays=40 Ro=106.5 v=-96 armed=1 target=98.5..104.5
+9810 gm=16 white=1 r=159.4 rays=40 Ro=106.5 v=-93 armed=1 target=98.5..104.5
+9823 gm=16 white=1 r=157.9 rays=40 Ro=106.5 v=-101 armed=1 target=98.5..104.5
+9840 gm=16 white=1 r=156.8 rays=40 Ro=106.5 v=-80 armed=1 target=98.5..104.5
+9858 gm=16 white=1 r=155.4 rays=40 Ro=106.5 v=-82 armed=1 target=98.5..104.5
+9889 gm=16 white=1 r=152.4 rays=40 Ro=106.5 v=-87 armed=1 target=98.5..104.5
+9903 gm=16 white=1 r=151.9 rays=40 Ro=106.5 v=-68 armed=1 target=98.5..104.5
+9918 gm=16 white=1 r=150.5 rays=40 Ro=106.5 v=-71 armed=1 target=98.5..104.5
+9936 gm=16 white=1 r=149.0 rays=40 Ro=106.5 v=-78 armed=1 target=98.5..104.5
+9969 gm=16 white=1 r=146.5 rays=40 Ro=106.5 v=-80 armed=1 target=98.5..104.5
+9997 gm=16 white=1 r=143.4 rays=40 Ro=106.5 v=-93 armed=1 target=98.5..104.5
+10014 gm=16 white=1 r=142.0 rays=40 Ro=106.5 v=-87 armed=1 target=98.5..104.5
+10064 gm=16 white=1 r=139.4 rays=40 Ro=106.5 v=-84 armed=1 target=98.5..104.5
+10092 gm=16 white=1 r=135.0 rays=40 Ro=106.5 v=-90 armed=1 target=98.5..104.5
+10122 gm=16 white=1 r=132.9 rays=40 Ro=106.5 v=-78 armed=1 target=98.5..104.5
+10134 gm=16 white=1 r=132.0 rays=40 Ro=106.5 v=-74 armed=1 target=98.5..104.5
+10150 gm=16 white=1 r=130.5 rays=40 Ro=106.5 v=-84 armed=1 target=98.5..104.5
+10168 gm=16 white=1 r=129.1 rays=40 Ro=106.5 v=-82 armed=1 target=98.5..104.5
+10185 gm=16 white=1 r=127.6 rays=40 Ro=106.5 v=-96 armed=1 target=98.5..104.5
+10201 gm=16 white=1 r=126.1 rays=40 Ro=106.5 v=-91 armed=1 target=98.5..104.5
+10213 gm=16 white=1 r=125.1 rays=40 Ro=106.5 v=-85 armed=1 target=98.5..104.5
+10234 gm=16 white=1 r=123.5 rays=40 Ro=106.5 v=-85 armed=1 target=98.5..104.5
+10259 gm=16 white=1 r=121.6 rays=40 Ro=106.5 v=-76 armed=1 target=98.5..104.5
+10280 gm=16 white=1 r=120.0 rays=40 Ro=106.5 v=-98 armed=1 target=98.5..104.5
+10309 gm=16 white=1 r=116.9 rays=40 Ro=106.5 v=-92 armed=1 target=98.5..104.5
+10322 gm=16 white=1 r=115.5 rays=40 Ro=106.5 v=-99 armed=1 target=98.5..104.5
+10343 gm=16 white=1 r=114.5 rays=40 Ro=106.5 v=-76 armed=1 target=98.5..104.5
+10370 gm=16 white=1 r=111.5 rays=40 Ro=106.5 v=-88 armed=1 target=98.5..104.5
+10388 gm=16 white=1 r=110.9 rays=40 Ro=106.5 v=-62 armed=1 target=98.5..104.5
+10500 gm=16 white=1 r=109.1 rays=40 Ro=106.5 v=-87 armed=0 target=98.5..104.5
+10525 gm=16 white=1 r=99.9 rays=40 Ro=106.5 v=-80 armed=0 target=98.5..104.5
+10544 gm=2 white=0 r=99.9 rays=7 Ro=106.5 v=-80 armed=0 target=98.5..104.5
+10561 gm=0 white=0 r=99.9 rays=0 Ro=106.5 v=-80 armed=0 target=98.5..104.5
+10596 gm=0 white=0 r=99.9 rays=1 Ro=106.5 v=-80 armed=0 target=98.5..104.5
+10619 gm=0 white=0 r=99.9 rays=1 Ro=106.5 v=-80 armed=0 target=98.5..104.5
+10636 gm=0 white=0 r=99.9 rays=1 Ro=106.5 v=-80 armed=0 target=98.5..104.5
+10653 gm=0 white=0 r=99.9 rays=1 Ro=106.5 v=-80 armed=0 target=98.5..104.5
+10669 gm=0 white=0 r=99.9 rays=1 Ro=106.5 v=-80 armed=0 target=98.5..104.5
+10683 gm=0 white=0 r=99.9 rays=1 Ro=106.5 v=-80 armed=0 target=98.5..104.5
+10699 gm=0 white=0 r=99.9 rays=1 Ro=106.5 v=-80 armed=0 target=98.5..104.5
+10715 gm=0 white=0 r=99.9 rays=1 Ro=106.5 v=-80 armed=0 target=98.5..104.5
+10736 gm=0 white=0 r=99.9 rays=1 Ro=106.5 v=-80 armed=0 target=98.5..104.5
+10772 gm=0 white=0 r=99.9 rays=1 Ro=106.5 v=-80 armed=0 target=98.5..104.5
+10795 gm=0 white=0 r=99.9 rays=1 Ro=106.5 v=-80 armed=0 target=98.5..104.5
+10825 gm=0 white=0 r=99.9 rays=1 Ro=106.5 v=-80 armed=0 target=98.5..104.5
+10840 LOST (no ring for 300 ms)
+17486 FOUND centre=959.5,771.0 Ro=72.5
+17498 BRIGHT 19:70,80,65 38:71,81,63 21:71,82,63 18:70,80,64 20:71,80,64 127:75,79,90 84:70,78,67 21:68,78,68 
+17501 gm=16 white=0 r=99.9 rays=0 Ro=72.5 v=0 armed=1 target=64.5..70.5
+17528 BRIGHT 19:70,80,65 38:71,81,63 21:71,82,63 18:70,80,64 20:71,80,64 127:75,79,90 84:70,78,67 21:68,78,68 
+17528 gm=16 white=0 r=99.9 rays=0 Ro=72.5 v=0 armed=1 target=64.5..70.5
+17560 BRIGHT 19:70,80,65 38:71,81,63 21:71,82,63 18:70,80,64 20:71,80,64 127:75,79,90 84:70,78,67 21:68,78,68 
+17561 gm=16 white=0 r=99.9 rays=0 Ro=72.5 v=0 armed=1 target=64.5..70.5
+17589 BRIGHT 19:70,80,65 38:71,81,63 21:71,82,63 18:70,80,64 20:71,80,64 127:75,79,90 84:70,78,67 21:68,78,68 
+17590 gm=16 white=0 r=99.9 rays=0 Ro=72.5 v=0 armed=1 target=64.5..70.5
+17620 BRIGHT 19:70,80,65 38:71,81,63 21:71,82,63 18:70,80,64 20:71,80,64 127:75,80,91 84:70,78,67 21:68,78,68 
+17620 gm=16 white=0 r=99.9 rays=0 Ro=72.5 v=0 armed=1 target=64.5..70.5
+17652 BRIGHT 125:255,255,255 125:255,255,255 126:255,255,255 125:255,255,255 125:255,255,255 125:255,255,255 125:255,255,255 125:255,255,255 
+17652 gm=16 white=0 r=99.9 rays=0 Ro=72.5 v=0 armed=1 target=64.5..70.5
+17686 gm=16 white=1 r=120.6 rays=40 Ro=72.5 v=0 armed=1 target=64.5..70.5
+17714 gm=16 white=1 r=116.0 rays=40 Ro=72.5 v=-76 armed=1 target=64.5..70.5
+17730 gm=16 white=1 r=112.5 rays=40 Ro=72.5 v=-134 armed=1 target=64.5..70.5
+17743 gm=16 white=1 r=111.4 rays=40 Ro=72.5 v=-115 armed=1 target=64.5..70.5
+17763 gm=16 white=1 r=106.5 rays=40 Ro=72.5 v=-195 armed=1 target=64.5..70.5
+17780 gm=16 white=1 r=103.5 rays=40 Ro=72.5 v=-184 armed=1 target=64.5..70.5
+17793 gm=16 white=1 r=101.0 rays=40 Ro=72.5 v=-190 armed=1 target=64.5..70.5
+17809 gm=16 white=1 r=98.5 rays=40 Ro=72.5 v=-168 armed=1 target=64.5..70.5
+17821 gm=16 white=1 r=96.0 rays=40 Ro=72.5 v=-179 armed=1 target=64.5..70.5
+17838 gm=16 white=1 r=92.1 rays=40 Ro=72.5 v=-198 armed=1 target=64.5..70.5
+17855 gm=16 white=1 r=90.5 rays=40 Ro=72.5 v=-144 armed=1 target=64.5..70.5
+17866 gm=16 white=1 r=88.5 rays=40 Ro=72.5 v=-155 armed=1 target=64.5..70.5
+17889 gm=16 white=1 r=84.6 rays=40 Ro=72.5 v=-181 armed=1 target=64.5..70.5
+17999 gm=16 white=1 r=81.6 rays=40 Ro=72.5 v=-223 armed=0 target=64.5..70.5
+18024 gm=16 white=1 r=61.9 rays=40 Ro=72.5 v=-189 armed=0 target=64.5..70.5
+18040 gm=16 white=1 r=61.6 rays=40 Ro=72.5 v=-104 armed=0 target=64.5..70.5
+18060 gm=0 white=0 r=61.6 rays=0 Ro=72.5 v=-104 armed=0 target=64.5..70.5
+18073 gm=0 white=0 r=61.6 rays=0 Ro=72.5 v=-104 armed=0 target=64.5..70.5
+18091 gm=0 white=0 r=61.6 rays=0 Ro=72.5 v=-104 armed=0 target=64.5..70.5
+18106 gm=0 white=0 r=61.6 rays=1 Ro=72.5 v=-104 armed=0 target=64.5..70.5
+18122 gm=0 white=0 r=61.6 rays=1 Ro=72.5 v=-104 armed=0 target=64.5..70.5
+18139 gm=0 white=0 r=61.6 rays=1 Ro=72.5 v=-104 armed=0 target=64.5..70.5
+18164 gm=0 white=0 r=61.6 rays=1 Ro=72.5 v=-104 armed=0 target=64.5..70.5
+18184 gm=0 white=0 r=61.6 rays=1 Ro=72.5 v=-104 armed=0 target=64.5..70.5
+18202 gm=0 white=0 r=61.6 rays=1 Ro=72.5 v=-104 armed=0 target=64.5..70.5
+18215 gm=0 white=0 r=61.6 rays=1 Ro=72.5 v=-104 armed=0 target=64.5..70.5
+18230 gm=0 white=0 r=61.6 rays=1 Ro=72.5 v=-104 armed=0 target=64.5..70.5
+18244 gm=0 white=0 r=61.6 rays=1 Ro=72.5 v=-104 armed=0 target=64.5..70.5
+18264 gm=0 white=0 r=61.6 rays=1 Ro=72.5 v=-104 armed=0 target=64.5..70.5
+18277 gm=0 white=0 r=61.6 rays=1 Ro=72.5 v=-104 armed=0 target=64.5..70.5
+18293 gm=0 white=0 r=61.6 rays=1 Ro=72.5 v=-104 armed=0 target=64.5..70.5
+18310 gm=0 white=0 r=61.6 rays=1 Ro=72.5 v=-104 armed=0 target=64.5..70.5
+18327 gm=0 white=0 r=61.6 rays=1 Ro=72.5 v=-104 armed=0 target=64.5..70.5
+18357 LOST (no ring for 300 ms)
+24970 FOUND centre=960.0,771.0 Ro=71.0
+24982 BRIGHT 19:70,80,65 38:70,81,63 62:64,140,64 18:70,80,64 18:69,80,65 122:74,80,89 84:70,78,67 21:68,79,68 
+24986 gm=16 white=0 r=61.6 rays=0 Ro=71.0 v=0 armed=1 target=63.0..69.0
+25012 BRIGHT 19:70,80,65 38:70,81,63 62:64,140,64 18:70,80,64 18:69,80,65 122:74,80,89 84:70,78,67 21:68,79,68 
+25012 gm=16 white=0 r=61.6 rays=0 Ro=71.0 v=0 armed=1 target=63.0..69.0
+25045 BRIGHT 19:70,80,65 38:70,81,63 62:64,140,64 18:70,80,64 18:69,80,65 122:74,80,89 84:70,78,67 21:68,79,68 
+25045 gm=16 white=0 r=61.6 rays=0 Ro=71.0 v=0 armed=1 target=63.0..69.0
+25073 BRIGHT 19:70,80,65 38:70,81,63 62:64,140,64 18:70,80,64 18:69,80,65 122:74,80,89 84:70,78,67 21:68,79,68 
+25074 gm=16 white=0 r=61.6 rays=0 Ro=71.0 v=0 armed=1 target=63.0..69.0
+25108 BRIGHT 19:70,80,65 38:70,81,63 62:64,140,64 18:70,80,64 18:69,80,65 122:74,79,89 84:70,78,67 21:68,79,68 
+25109 gm=16 white=0 r=61.6 rays=0 Ro=71.0 v=0 armed=1 target=63.0..69.0
+25136 BRIGHT 19:70,80,65 38:70,81,63 62:64,140,64 18:70,80,64 18:69,80,65 122:74,79,89 84:70,78,67 21:68,79,68 
+25137 gm=16 white=0 r=61.6 rays=0 Ro=71.0 v=0 armed=1 target=63.0..69.0
+25171 BRIGHT 19:70,80,65 38:70,81,63 62:64,140,64 18:70,80,64 18:69,80,65 108:73,80,75 84:70,78,67 21:68,79,68 
+25171 gm=16 white=0 r=61.6 rays=0 Ro=71.0 v=0 armed=1 target=63.0..69.0
+25198 BRIGHT 19:70,80,65 38:70,81,63 62:64,140,64 18:70,80,64 18:69,80,65 108:73,80,75 84:70,78,67 21:68,79,68 
+25199 gm=16 white=0 r=61.6 rays=0 Ro=71.0 v=0 armed=1 target=63.0..69.0
+25232 BRIGHT 19:70,80,65 38:70,81,63 62:64,140,64 18:70,80,64 18:69,80,65 108:73,80,75 84:70,78,67 21:68,79,68 
+25232 gm=16 white=0 r=61.6 rays=0 Ro=71.0 v=0 armed=1 target=63.0..69.0
+25265 BRIGHT 19:70,80,65 38:70,81,63 62:64,140,64 18:70,80,64 18:69,80,65 108:73,80,75 84:70,78,67 21:68,79,68 
+25266 gm=16 white=0 r=61.6 rays=0 Ro=71.0 v=0 armed=1 target=63.0..69.0
+25308 BRIGHT 19:70,80,65 38:70,81,63 62:64,140,64 18:70,80,64 18:69,80,65 108:73,80,75 84:70,78,67 21:68,79,68 
+25309 gm=16 white=0 r=61.6 rays=0 Ro=71.0 v=0 armed=1 target=63.0..69.0
+25341 BRIGHT 124:255,255,255 124:255,255,255 124:201,203,197 124:255,255,255 124:255,255,255 124:255,255,255 123:255,255,255 124:255,255,255 
+25342 gm=16 white=0 r=61.6 rays=0 Ro=71.0 v=0 armed=1 target=63.0..69.0
+25370 BRIGHT 119:255,255,255 120:255,255,255 120:255,255,255 120:255,255,255 120:255,255,255 120:255,255,255 119:255,255,255 120:255,255,255 
+25371 gm=16 white=0 r=61.6 rays=17 Ro=71.0 v=0 armed=1 target=63.0..69.0
+25405 gm=16 white=1 r=118.4 rays=40 Ro=71.0 v=0 armed=1 target=63.0..69.0
+25435 gm=16 white=1 r=114.4 rays=40 Ro=71.0 v=-60 armed=1 target=63.0..69.0
+25447 gm=16 white=1 r=113.0 rays=40 Ro=71.0 v=-88 armed=1 target=63.0..69.0
+25464 gm=16 white=1 r=111.9 rays=40 Ro=71.0 v=-74 armed=1 target=63.0..69.0
+25477 gm=16 white=1 r=109.9 rays=40 Ro=71.0 v=-120 armed=1 target=63.0..69.0
+25494 gm=16 white=1 r=108.9 rays=40 Ro=71.0 v=-89 armed=1 target=63.0..69.0
+25510 gm=16 white=1 r=106.9 rays=40 Ro=71.0 v=-103 armed=1 target=63.0..69.0
+25523 gm=16 white=1 r=105.4 rays=40 Ro=71.0 v=-106 armed=1 target=63.0..69.0
+25543 gm=16 white=1 r=103.0 rays=40 Ro=71.0 v=-124 armed=1 target=63.0..69.0
+25556 gm=16 white=1 r=101.9 rays=40 Ro=71.0 v=-101 armed=1 target=63.0..69.0
+25572 gm=16 white=1 r=100.0 rays=40 Ro=71.0 v=-107 armed=1 target=63.0..69.0
+25591 gm=16 white=1 r=98.5 rays=40 Ro=71.0 v=-96 armed=1 target=63.0..69.0
+25602 gm=16 white=1 r=96.6 rays=40 Ro=71.0 v=-127 armed=1 target=63.0..69.0
+25623 gm=16 white=1 r=95.1 rays=40 Ro=71.0 v=-104 armed=1 target=63.0..69.0
+25634 gm=16 white=1 r=93.5 rays=40 Ro=71.0 v=-114 armed=1 target=63.0..69.0
+25652 gm=16 white=1 r=92.4 rays=40 Ro=71.0 v=-89 armed=1 target=63.0..69.0
+25667 gm=16 white=1 r=90.0 rays=40 Ro=71.0 v=-114 armed=1 target=63.0..69.0
+25680 gm=16 white=1 r=89.0 rays=40 Ro=71.0 v=-101 armed=1 target=63.0..69.0
+25696 gm=16 white=1 r=87.0 rays=40 Ro=71.0 v=-105 armed=1 target=63.0..69.0
+25717 gm=16 white=1 r=85.4 rays=40 Ro=71.0 v=-94 armed=1 target=63.0..69.0
+25743 gm=16 white=1 r=82.4 rays=40 Ro=71.0 v=-101 armed=1 target=63.0..69.0
+25759 gm=16 white=1 r=81.0 rays=40 Ro=71.0 v=-100 armed=1 target=63.0..69.0
+25776 gm=16 white=1 r=78.5 rays=40 Ro=71.0 v=-126 armed=1 target=63.0..69.0
+25792 gm=16 white=1 r=76.6 rays=40 Ro=71.0 v=-119 armed=1 target=63.0..69.0
+25809 gm=16 white=1 r=75.7 rays=40 Ro=71.0 v=-86 armed=1 target=63.0..69.0
+25826 gm=16 white=1 r=74.1 rays=40 Ro=71.0 v=-100 armed=1 target=63.0..69.0
+25957 gm=16 white=1 r=72.5 rays=40 Ro=71.0 v=-99 armed=0 target=63.0..69.0
+25984 gm=16 white=1 r=60.1 rays=40 Ro=71.0 v=-93 armed=0 target=63.0..69.0
+26017 gm=0 white=0 r=60.1 rays=0 Ro=71.0 v=-93 armed=0 target=63.0..69.0
+26043 gm=0 white=0 r=60.1 rays=1 Ro=71.0 v=-93 armed=0 target=63.0..69.0
+26056 gm=0 white=0 r=60.1 rays=1 Ro=71.0 v=-93 armed=0 target=63.0..69.0
+26073 gm=0 white=0 r=60.1 rays=1 Ro=71.0 v=-93 armed=0 target=63.0..69.0
+26090 gm=0 white=0 r=60.1 rays=1 Ro=71.0 v=-93 armed=0 target=63.0..69.0
+26107 gm=0 white=0 r=60.1 rays=1 Ro=71.0 v=-93 armed=0 target=63.0..69.0
+26119 gm=0 white=0 r=60.1 rays=1 Ro=71.0 v=-93 armed=0 target=63.0..69.0
+26136 gm=0 white=0 r=60.1 rays=1 Ro=71.0 v=-93 armed=0 target=63.0..69.0
+26152 gm=0 white=0 r=60.1 rays=1 Ro=71.0 v=-93 armed=0 target=63.0..69.0
+26168 gm=0 white=0 r=60.1 rays=1 Ro=71.0 v=-93 armed=0 target=63.0..69.0
+26181 gm=0 white=0 r=60.1 rays=1 Ro=71.0 v=-93 armed=0 target=63.0..69.0
+26198 gm=0 white=0 r=60.1 rays=1 Ro=71.0 v=-93 armed=0 target=63.0..69.0
+26215 gm=0 white=0 r=60.1 rays=1 Ro=71.0 v=-93 armed=0 target=63.0..69.0
+26227 gm=0 white=0 r=60.1 rays=1 Ro=71.0 v=-93 armed=0 target=63.0..69.0
+26244 gm=0 white=0 r=60.1 rays=1 Ro=71.0 v=-93 armed=0 target=63.0..69.0
+26261 gm=0 white=0 r=60.1 rays=1 Ro=71.0 v=-93 armed=0 target=63.0..69.0
+26278 gm=0 white=0 r=60.1 rays=1 Ro=71.0 v=-93 armed=0 target=63.0..69.0
+26290 LOST (no ring for 300 ms)
+32939 FOUND centre=960.0,771.5 Ro=117.0
+32968 gm=16 white=1 r=168.2 rays=40 Ro=117.0 v=0 armed=1 target=109.0..115.0
+32997 gm=16 white=1 r=160.0 rays=40 Ro=117.0 v=-33 armed=1 target=109.0..115.0
+33010 gm=16 white=1 r=157.4 rays=40 Ro=117.0 v=-101 armed=1 target=109.0..115.0
+33026 gm=16 white=1 r=154.5 rays=40 Ro=117.0 v=-144 armed=1 target=109.0..115.0
+33043 gm=16 white=1 r=152.0 rays=40 Ro=117.0 v=-153 armed=1 target=109.0..115.0
+33058 gm=16 white=1 r=148.4 rays=40 Ro=117.0 v=-190 armed=1 target=109.0..115.0
+33070 gm=16 white=1 r=146.5 rays=40 Ro=117.0 v=-158 armed=1 target=109.0..115.0
+33088 gm=16 white=1 r=143.0 rays=40 Ro=117.0 v=-189 armed=1 target=109.0..115.0
+33105 gm=16 white=1 r=141.6 rays=40 Ro=117.0 v=-140 armed=1 target=109.0..115.0
+33117 gm=16 white=1 r=138.9 rays=40 Ro=117.0 v=-157 armed=1 target=109.0..115.0
+33133 gm=16 white=1 r=135.0 rays=40 Ro=117.0 v=-202 armed=1 target=109.0..115.0
+33149 gm=16 white=1 r=132.6 rays=40 Ro=117.0 v=-178 armed=1 target=109.0..115.0
+33234 gm=16 white=1 r=129.0 rays=40 Ro=117.0 v=-204 armed=0 target=109.0..115.0
+33261 gm=16 white=1 r=116.9 rays=40 Ro=117.0 v=-165 armed=0 target=109.0..115.0
+33279 gm=1 white=1 r=117.9 rays=28 Ro=117.0 v=-56 armed=0 target=109.0..115.0
+33293 gm=0 white=0 r=117.9 rays=10 Ro=117.0 v=-56 armed=0 target=109.0..115.0
+33313 gm=0 white=0 r=117.9 rays=1 Ro=117.0 v=-56 armed=0 target=109.0..115.0
+33340 gm=0 white=0 r=117.9 rays=1 Ro=117.0 v=-56 armed=0 target=109.0..115.0
+33358 gm=0 white=0 r=117.9 rays=1 Ro=117.0 v=-56 armed=0 target=109.0..115.0
+33375 gm=0 white=0 r=117.9 rays=1 Ro=117.0 v=-56 armed=0 target=109.0..115.0
+33407 gm=0 white=0 r=117.9 rays=1 Ro=117.0 v=-56 armed=0 target=109.0..115.0
+33437 gm=0 white=0 r=117.9 rays=1 Ro=117.0 v=-56 armed=0 target=109.0..115.0
+33470 gm=0 white=0 r=117.9 rays=1 Ro=117.0 v=-56 armed=0 target=109.0..115.0
+33503 gm=0 white=0 r=117.9 rays=1 Ro=117.0 v=-56 armed=0 target=109.0..115.0
+33533 gm=0 white=0 r=117.9 rays=1 Ro=117.0 v=-56 armed=0 target=109.0..115.0
+33561 gm=0 white=0 r=117.9 rays=1 Ro=117.0 v=-56 armed=0 target=109.0..115.0
+33595 LOST (no ring for 300 ms)
+34379 FOUND centre=960.0,771.5 Ro=104.0
+34393 BRIGHT 30:70,80,64 38:70,81,63 29:70,80,63 60:67,76,64 28:70,81,64 181:141,144,149 176:87,90,76 26:69,80,66 
+34394 gm=16 white=0 r=117.9 rays=0 Ro=104.0 v=0 armed=1 target=96.0..102.0
+34437 BRIGHT 30:70,80,64 38:70,81,63 29:70,80,63 60:67,76,64 28:70,81,64 181:141,145,149 176:87,90,76 26:69,80,66 
+34437 gm=16 white=0 r=117.9 rays=0 Ro=104.0 v=0 armed=1 target=96.0..102.0
+34476 BRIGHT 30:70,80,64 38:70,81,63 29:70,80,63 60:67,76,64 28:70,81,64 181:142,145,150 176:87,90,76 26:69,80,66 
+34477 gm=16 white=0 r=117.9 rays=0 Ro=104.0 v=0 armed=1 target=96.0..102.0
+34524 BRIGHT 30:70,80,64 38:70,81,63 29:70,80,63 60:67,76,64 28:70,81,64 181:142,145,151 176:87,90,76 26:69,80,66 
+34525 gm=16 white=0 r=117.9 rays=0 Ro=104.0 v=0 armed=1 target=96.0..102.0
+34572 BRIGHT 180:255,255,255 180:255,255,255 181:255,255,255 181:255,255,255 181:255,255,255 181:255,255,255 182:255,255,255 181:255,255,255 
+34573 gm=16 white=0 r=117.9 rays=0 Ro=104.0 v=0 armed=1 target=96.0..102.0
+34612 gm=16 white=1 r=177.0 rays=40 Ro=104.0 v=0 armed=1 target=96.0..102.0
+34634 gm=16 white=1 r=174.5 rays=40 Ro=104.0 v=-43 armed=1 target=96.0..102.0
+34656 gm=16 white=1 r=173.1 rays=40 Ro=104.0 v=-57 armed=1 target=96.0..102.0
+34685 gm=16 white=1 r=170.0 rays=40 Ro=104.0 v=-82 armed=1 target=96.0..102.0
+34701 gm=16 white=1 r=168.2 rays=40 Ro=104.0 v=-97 armed=1 target=96.0..102.0
+34714 gm=16 white=1 r=167.0 rays=40 Ro=104.0 v=-91 armed=1 target=96.0..102.0
+34731 gm=16 white=1 r=165.6 rays=40 Ro=104.0 v=-87 armed=1 target=96.0..102.0
+34749 gm=16 white=1 r=163.6 rays=40 Ro=104.0 v=-99 armed=1 target=96.0..102.0
+34778 gm=16 white=1 r=161.1 rays=40 Ro=104.0 v=-92 armed=1 target=96.0..102.0
+34797 gm=16 white=1 r=158.5 rays=40 Ro=104.0 v=-113 armed=1 target=96.0..102.0
+34826 gm=16 white=1 r=155.5 rays=40 Ro=104.0 v=-107 armed=1 target=96.0..102.0
+34839 gm=16 white=1 r=154.0 rays=40 Ro=104.0 v=-114 armed=1 target=96.0..102.0
+34855 gm=16 white=1 r=153.0 rays=40 Ro=104.0 v=-87 armed=1 target=96.0..102.0
+34879 gm=16 white=1 r=150.5 rays=40 Ro=104.0 v=-112 armed=1 target=96.0..102.0
+34900 gm=16 white=1 r=148.5 rays=40 Ro=104.0 v=-95 armed=1 target=96.0..102.0
+34921 gm=16 white=1 r=146.1 rays=40 Ro=104.0 v=-104 armed=1 target=96.0..102.0
+34950 gm=16 white=1 r=143.4 rays=40 Ro=104.0 v=-97 armed=1 target=96.0..102.0
+34972 gm=16 white=1 r=141.0 rays=40 Ro=104.0 v=-112 armed=1 target=96.0..102.0
+35000 gm=16 white=1 r=138.0 rays=40 Ro=104.0 v=-107 armed=1 target=96.0..102.0
+35026 gm=16 white=1 r=136.1 rays=40 Ro=104.0 v=-90 armed=1 target=96.0..102.0
+35042 gm=16 white=1 r=133.9 rays=40 Ro=104.0 v=-114 armed=1 target=96.0..102.0
+35059 gm=16 white=1 r=132.1 rays=40 Ro=104.0 v=-111 armed=1 target=96.0..102.0
+35075 gm=16 white=1 r=131.0 rays=40 Ro=104.0 v=-83 armed=1 target=96.0..102.0
+35088 gm=16 white=1 r=129.5 rays=40 Ro=104.0 v=-108 armed=1 target=96.0..102.0
+35109 gm=16 white=1 r=128.7 rays=40 Ro=104.0 v=-76 armed=1 target=96.0..102.0
+35137 gm=16 white=1 r=125.1 rays=40 Ro=104.0 v=-99 armed=1 target=96.0..102.0
+35153 gm=16 white=1 r=123.0 rays=40 Ro=104.0 v=-107 armed=1 target=96.0..102.0
+35166 gm=16 white=1 r=122.0 rays=40 Ro=104.0 v=-92 armed=1 target=96.0..102.0
+35183 gm=16 white=1 r=121.5 rays=40 Ro=104.0 v=-61 armed=1 target=96.0..102.0
+35203 gm=16 white=1 r=118.4 rays=40 Ro=104.0 v=-114 armed=1 target=96.0..102.0
+35232 gm=16 white=1 r=115.6 rays=40 Ro=104.0 v=-105 armed=1 target=96.0..102.0
+35250 gm=16 white=1 r=113.5 rays=40 Ro=104.0 v=-114 armed=1 target=96.0..102.0
+35278 gm=16 white=1 r=110.6 rays=40 Ro=104.0 v=-106 armed=1 target=96.0..102.0
+35292 gm=16 white=1 r=109.5 rays=40 Ro=104.0 v=-99 armed=1 target=96.0..102.0
+35394 gm=16 white=1 r=107.5 rays=40 Ro=104.0 v=-103 armed=0 target=96.0..102.0
+35415 gm=16 white=1 r=99.0 rays=40 Ro=104.0 v=-91 armed=0 target=96.0..102.0
+35435 gm=0 white=0 r=99.0 rays=4 Ro=104.0 v=-91 armed=0 target=96.0..102.0
+35454 gm=0 white=0 r=99.0 rays=1 Ro=104.0 v=-91 armed=0 target=96.0..102.0
+35482 gm=0 white=0 r=99.0 rays=1 Ro=104.0 v=-91 armed=0 target=96.0..102.0
+35502 gm=0 white=0 r=99.0 rays=1 Ro=104.0 v=-91 armed=0 target=96.0..102.0
+35530 gm=0 white=0 r=99.0 rays=1 Ro=104.0 v=-91 armed=0 target=96.0..102.0
+35548 gm=0 white=0 r=99.0 rays=1 Ro=104.0 v=-91 armed=0 target=96.0..102.0
+35577 gm=0 white=0 r=99.0 rays=0 Ro=104.0 v=-91 armed=0 target=96.0..102.0
+35606 gm=0 white=0 r=99.0 rays=0 Ro=104.0 v=-91 armed=0 target=96.0..102.0
+35623 gm=0 white=0 r=99.0 rays=0 Ro=104.0 v=-91 armed=0 target=96.0..102.0
+35639 gm=0 white=0 r=99.0 rays=1 Ro=104.0 v=-91 armed=0 target=96.0..102.0
+35669 gm=0 white=0 r=99.0 rays=2 Ro=104.0 v=-91 armed=0 target=96.0..102.0
+35685 gm=0 white=0 r=99.0 rays=1 Ro=104.0 v=-91 armed=0 target=96.0..102.0
+35701 gm=0 white=0 r=99.0 rays=1 Ro=104.0 v=-91 armed=0 target=96.0..102.0
+35731 LOST (no ring for 300 ms)
+42360 FOUND centre=960.0,771.5 Ro=107.0
+42377 gm=16 white=1 r=164.0 rays=40 Ro=107.0 v=0 armed=1 target=99.0..105.0
+42406 gm=16 white=1 r=159.9 rays=40 Ro=107.0 v=-21 armed=1 target=99.0..105.0
+42435 gm=16 white=1 r=157.0 rays=40 Ro=107.0 v=-61 armed=1 target=99.0..105.0
+42452 gm=16 white=1 r=156.0 rays=40 Ro=107.0 v=-56 armed=1 target=99.0..105.0
+42485 gm=16 white=1 r=151.5 rays=40 Ro=107.0 v=-103 armed=1 target=99.0..105.0
+42515 gm=16 white=1 r=148.4 rays=40 Ro=107.0 v=-102 armed=1 target=99.0..105.0
+42543 gm=16 white=1 r=146.1 rays=40 Ro=107.0 v=-92 armed=1 target=99.0..105.0
+42560 gm=16 white=1 r=144.0 rays=40 Ro=107.0 v=-101 armed=1 target=99.0..105.0
+42573 gm=16 white=1 r=142.1 rays=40 Ro=107.0 v=-136 armed=1 target=99.0..105.0
+42588 gm=16 white=1 r=141.0 rays=40 Ro=107.0 v=-97 armed=1 target=99.0..105.0
+42611 gm=16 white=1 r=138.4 rays=40 Ro=107.0 v=-119 armed=1 target=99.0..105.0
+42639 gm=16 white=1 r=136.0 rays=40 Ro=107.0 v=-99 armed=1 target=99.0..105.0
+42656 gm=16 white=1 r=133.5 rays=40 Ro=107.0 v=-121 armed=1 target=99.0..105.0
+42684 gm=16 white=1 r=131.0 rays=40 Ro=107.0 v=-105 armed=1 target=99.0..105.0
+42701 gm=16 white=1 r=129.0 rays=40 Ro=107.0 v=-106 armed=1 target=99.0..105.0
+42714 gm=16 white=1 r=128.0 rays=40 Ro=107.0 v=-97 armed=1 target=99.0..105.0
+42730 gm=16 white=1 r=125.5 rays=40 Ro=107.0 v=-120 armed=1 target=99.0..105.0
+42743 gm=16 white=1 r=124.5 rays=40 Ro=107.0 v=-99 armed=1 target=99.0..105.0
+42763 gm=16 white=1 r=122.1 rays=40 Ro=107.0 v=-120 armed=1 target=99.0..105.0
+42775 gm=16 white=1 r=121.0 rays=40 Ro=107.0 v=-98 armed=1 target=99.0..105.0
+42792 gm=16 white=1 r=118.4 rays=40 Ro=107.0 v=-126 armed=1 target=99.0..105.0
+42812 gm=16 white=1 r=117.5 rays=40 Ro=107.0 v=-90 armed=1 target=99.0..105.0
+42839 gm=16 white=1 r=114.5 rays=40 Ro=107.0 v=-95 armed=1 target=99.0..105.0
+42968 gm=16 white=1 r=111.9 rays=40 Ro=107.0 v=-119 armed=0 target=99.0..105.0
+42992 gm=16 white=1 r=100.0 rays=40 Ro=107.0 v=-103 armed=0 target=99.0..105.0
+43016 gm=0 white=0 r=100.0 rays=2 Ro=107.0 v=-103 armed=0 target=99.0..105.0
+43045 gm=0 white=0 r=100.0 rays=1 Ro=107.0 v=-103 armed=0 target=99.0..105.0
+43063 gm=0 white=0 r=100.0 rays=1 Ro=107.0 v=-103 armed=0 target=99.0..105.0
+43103 gm=0 white=0 r=100.0 rays=1 Ro=107.0 v=-103 armed=0 target=99.0..105.0
+43120 gm=0 white=0 r=100.0 rays=1 Ro=107.0 v=-103 armed=0 target=99.0..105.0
+43142 gm=0 white=0 r=100.0 rays=1 Ro=107.0 v=-103 armed=0 target=99.0..105.0
+43170 gm=0 white=0 r=100.0 rays=1 Ro=107.0 v=-103 armed=0 target=99.0..105.0
+43182 gm=0 white=0 r=100.0 rays=1 Ro=107.0 v=-103 armed=0 target=99.0..105.0
+43200 gm=0 white=0 r=100.0 rays=1 Ro=107.0 v=-103 armed=0 target=99.0..105.0
+43224 gm=0 white=0 r=100.0 rays=1 Ro=107.0 v=-103 armed=0 target=99.0..105.0
+43250 gm=0 white=0 r=100.0 rays=1 Ro=107.0 v=-103 armed=0 target=99.0..105.0
+43278 gm=0 white=0 r=100.0 rays=1 Ro=107.0 v=-103 armed=0 target=99.0..105.0
+43295 gm=0 white=0 r=100.0 rays=1 Ro=107.0 v=-103 armed=0 target=99.0..105.0
+43311 LOST (no ring for 300 ms)
+49986 FOUND centre=959.5,771.0 Ro=120.5
+50018 gm=16 white=1 r=179.0 rays=40 Ro=120.5 v=0 armed=1 target=112.5..118.5
+50047 gm=16 white=1 r=172.6 rays=40 Ro=120.5 v=-26 armed=1 target=112.5..118.5
+50074 gm=16 white=1 r=169.5 rays=40 Ro=120.5 v=-62 armed=1 target=112.5..118.5
+50091 gm=16 white=1 r=167.6 rays=40 Ro=120.5 v=-96 armed=1 target=112.5..118.5
+50110 gm=16 white=1 r=165.5 rays=40 Ro=120.5 v=-115 armed=1 target=112.5..118.5
+50141 gm=16 white=1 r=160.5 rays=40 Ro=120.5 v=-129 armed=1 target=112.5..118.5
+50165 gm=16 white=1 r=156.9 rays=40 Ro=120.5 v=-131 armed=1 target=112.5..118.5
+50183 gm=16 white=1 r=156.0 rays=40 Ro=120.5 v=-96 armed=1 target=112.5..118.5
+50204 gm=16 white=1 r=153.0 rays=40 Ro=120.5 v=-146 armed=1 target=112.5..118.5
+50232 gm=16 white=1 r=148.4 rays=40 Ro=120.5 v=-144 armed=1 target=112.5..118.5
+50245 gm=16 white=1 r=147.4 rays=40 Ro=120.5 v=-105 armed=1 target=112.5..118.5
+50261 gm=16 white=1 r=145.5 rays=40 Ro=120.5 v=-110 armed=1 target=112.5..118.5
+50277 gm=16 white=1 r=143.5 rays=40 Ro=120.5 v=-124 armed=1 target=112.5..118.5
+50290 gm=16 white=1 r=141.6 rays=40 Ro=120.5 v=-124 armed=1 target=112.5..118.5
+50306 gm=16 white=1 r=138.9 rays=40 Ro=120.5 v=-144 armed=1 target=112.5..118.5
+50323 gm=16 white=1 r=137.0 rays=40 Ro=120.5 v=-135 armed=1 target=112.5..118.5
+50336 gm=16 white=1 r=135.0 rays=40 Ro=120.5 v=-130 armed=1 target=112.5..118.5
+50353 gm=16 white=1 r=133.5 rays=40 Ro=120.5 v=-115 armed=1 target=112.5..118.5
+50373 gm=16 white=1 r=130.0 rays=40 Ro=120.5 v=-150 armed=1 target=112.5..118.5
+50487 gm=16 white=1 r=126.1 rays=40 Ro=120.5 v=-140 armed=0 target=112.5..118.5
+50518 gm=16 white=1 r=116.0 rays=40 Ro=120.5 v=-117 armed=0 target=112.5..118.5
+50548 gm=0 white=0 r=116.0 rays=2 Ro=120.5 v=-117 armed=0 target=112.5..118.5
+50578 gm=0 white=0 r=116.0 rays=1 Ro=120.5 v=-117 armed=0 target=112.5..118.5
+50607 gm=0 white=0 r=116.0 rays=1 Ro=120.5 v=-117 armed=0 target=112.5..118.5
+50624 gm=0 white=0 r=116.0 rays=1 Ro=120.5 v=-117 armed=0 target=112.5..118.5
+50659 gm=0 white=0 r=116.0 rays=1 Ro=120.5 v=-117 armed=0 target=112.5..118.5
+50685 gm=0 white=0 r=116.0 rays=1 Ro=120.5 v=-117 armed=0 target=112.5..118.5
+50701 gm=0 white=0 r=116.0 rays=1 Ro=120.5 v=-117 armed=0 target=112.5..118.5
+50722 gm=0 white=0 r=116.0 rays=1 Ro=120.5 v=-117 armed=0 target=112.5..118.5
+50747 gm=0 white=0 r=116.0 rays=1 Ro=120.5 v=-117 armed=0 target=112.5..118.5
+50763 gm=0 white=0 r=116.0 rays=1 Ro=120.5 v=-117 armed=0 target=112.5..118.5
+50777 gm=0 white=0 r=116.0 rays=1 Ro=120.5 v=-117 armed=0 target=112.5..118.5
+50794 gm=0 white=0 r=116.0 rays=1 Ro=120.5 v=-117 armed=0 target=112.5..118.5
+50813 gm=0 white=0 r=116.0 rays=1 Ro=120.5 v=-117 armed=0 target=112.5..118.5
+50842 LOST (no ring for 300 ms)
+58146 no ring for 7500 ms -> Z
+58344 FOUND centre=959.5,771.5 Ro=57.5
+58355 BRIGHT 14:69,80,66 18:72,83,63 20:71,82,63 59:67,76,65 14:69,81,66 97:75,81,91 19:72,82,65 22:68,79,68 
+58359 gm=16 white=0 r=116.0 rays=0 Ro=57.5 v=0 armed=1 target=49.5..55.5
+58389 BRIGHT 14:69,80,66 18:72,83,63 20:71,82,63 59:67,76,65 14:69,81,66 98:71,79,73 84:69,78,66 22:68,79,68 
+58389 gm=16 white=0 r=116.0 rays=0 Ro=57.5 v=0 armed=1 target=49.5..55.5
+58418 BRIGHT 14:69,80,66 18:72,83,63 20:71,82,63 59:67,76,65 14:69,81,66 98:71,79,71 93:70,78,67 22:68,79,68 
+58419 gm=16 white=0 r=116.0 rays=0 Ro=57.5 v=0 armed=1 target=49.5..55.5
+58448 BRIGHT 14:69,80,66 18:72,83,63 20:71,82,63 59:67,76,65 14:69,81,66 98:71,79,71 93:70,78,67 22:68,79,68 
+58448 gm=16 white=0 r=116.0 rays=0 Ro=57.5 v=0 armed=1 target=49.5..55.5
+58477 BRIGHT 14:69,80,66 18:72,83,63 20:71,82,63 59:67,76,65 14:69,81,66 98:71,79,71 93:70,78,67 22:68,79,68 
+58477 gm=16 white=0 r=116.0 rays=0 Ro=57.5 v=0 armed=1 target=49.5..55.5
+58510 BRIGHT 14:69,80,66 18:72,83,63 20:71,82,63 59:67,76,65 14:69,81,66 98:71,79,71 93:70,78,67 22:68,79,68 
+58510 gm=16 white=0 r=116.0 rays=0 Ro=57.5 v=0 armed=1 target=49.5..55.5
+58543 BRIGHT 14:69,80,66 18:72,83,63 20:71,82,63 59:67,76,65 14:69,81,66 98:71,79,71 93:70,78,67 22:68,79,68 
+58544 gm=16 white=0 r=116.0 rays=0 Ro=57.5 v=0 armed=1 target=49.5..55.5
+58573 BRIGHT 14:69,80,66 18:72,83,63 20:71,82,63 59:67,76,65 14:69,81,66 98:71,79,71 93:70,78,67 22:68,79,68 
+58573 gm=16 white=0 r=116.0 rays=0 Ro=57.5 v=0 armed=1 target=49.5..55.5
+58603 BRIGHT 14:69,80,66 18:72,83,63 20:71,82,63 59:67,76,65 14:69,81,66 98:71,79,71 93:70,78,67 22:68,79,68 
+58603 gm=16 white=0 r=116.0 rays=0 Ro=57.5 v=0 armed=1 target=49.5..55.5
+58632 BRIGHT 14:69,80,66 18:72,83,63 20:71,82,63 59:67,76,65 14:69,81,66 98:71,79,71 93:70,78,67 22:68,79,68 
+58635 gm=16 white=0 r=116.0 rays=0 Ro=57.5 v=0 armed=1 target=49.5..55.5
+58668 BRIGHT 14:69,80,66 18:72,83,63 20:71,82,63 59:67,76,65 14:69,81,66 98:71,79,71 93:70,78,67 22:68,79,68 
+58669 gm=16 white=0 r=116.0 rays=0 Ro=57.5 v=0 armed=1 target=49.5..55.5
+58698 BRIGHT 14:69,80,66 18:72,83,63 20:71,82,63 59:67,76,65 14:69,81,66 98:71,79,71 93:70,78,67 22:68,79,68 
+58699 gm=16 white=0 r=116.0 rays=0 Ro=57.5 v=0 armed=1 target=49.5..55.5
+58728 BRIGHT 14:69,80,66 18:72,83,63 20:71,82,63 59:67,76,65 14:69,81,66 98:71,79,71 93:70,78,67 22:68,79,68 
+58729 gm=16 white=0 r=116.0 rays=0 Ro=57.5 v=0 armed=1 target=49.5..55.5
+58761 BRIGHT 14:69,80,66 18:72,83,63 20:71,82,63 59:67,76,65 14:69,81,66 98:71,79,71 93:70,78,67 22:68,79,68 
+58762 gm=16 white=0 r=116.0 rays=0 Ro=57.5 v=0 armed=1 target=49.5..55.5
+58793 BRIGHT 14:69,80,66 18:72,83,63 20:71,82,63 59:67,76,65 14:69,81,66 98:71,79,71 93:70,78,67 22:68,79,68 
+58794 gm=16 white=0 r=116.0 rays=0 Ro=57.5 v=0 armed=1 target=49.5..55.5
+58826 BRIGHT 101:100,107,87 101:222,223,219 101:193,195,189 101:255,255,255 101:180,184,188 101:224,225,224 101:101,106,94 101:148,156,155 
+58826 gm=16 white=0 r=116.0 rays=0 Ro=57.5 v=0 armed=1 target=49.5..55.5
+58863 gm=16 white=1 r=98.2 rays=21 Ro=57.5 v=0 armed=1 target=49.5..55.5
+58885 gm=16 white=1 r=94.1 rays=40 Ro=57.5 v=-66 armed=1 target=49.5..55.5
+58901 gm=16 white=1 r=91.5 rays=40 Ro=57.5 v=-107 armed=1 target=49.5..55.5
+58918 gm=16 white=1 r=89.2 rays=40 Ro=57.5 v=-120 armed=1 target=49.5..55.5
+58931 gm=16 white=1 r=86.2 rays=40 Ro=57.5 v=-185 armed=1 target=49.5..55.5
+58948 gm=16 white=1 r=84.5 rays=40 Ro=57.5 v=-137 armed=1 target=49.5..55.5
+58963 gm=16 white=1 r=81.6 rays=40 Ro=57.5 v=-177 armed=1 target=49.5..55.5
+58980 gm=16 white=1 r=77.8 rays=40 Ro=57.5 v=-201 armed=1 target=49.5..55.5
+58997 gm=16 white=1 r=77.8 rays=40 Ro=57.5 v=-101 armed=1 target=49.5..55.5
+59009 gm=16 white=1 r=74.4 rays=40 Ro=57.5 v=-192 armed=1 target=49.5..55.5
+59026 gm=16 white=1 r=70.9 rays=40 Ro=57.5 v=-198 armed=1 target=49.5..55.5
+59043 gm=16 white=1 r=68.5 rays=40 Ro=57.5 v=-163 armed=1 target=49.5..55.5
+59054 gm=16 white=1 r=66.9 rays=40 Ro=57.5 v=-144 armed=1 target=49.5..55.5
+59190 gm=16 white=1 r=64.0 rays=40 Ro=57.5 v=-152 armed=0 target=49.5..55.5
+59208 gm=16 white=1 r=46.1 rays=40 Ro=57.5 v=-142 armed=0 target=49.5..55.5
+59232 gm=0 white=0 r=46.1 rays=0 Ro=57.5 v=-142 armed=0 target=49.5..55.5
+59243 gm=0 white=0 r=46.1 rays=0 Ro=57.5 v=-142 armed=0 target=49.5..55.5
+59260 gm=0 white=0 r=46.1 rays=0 Ro=57.5 v=-142 armed=0 target=49.5..55.5
+59277 gm=0 white=0 r=46.1 rays=1 Ro=57.5 v=-142 armed=0 target=49.5..55.5
+59294 gm=0 white=0 r=46.1 rays=1 Ro=57.5 v=-142 armed=0 target=49.5..55.5
+59305 gm=0 white=0 r=46.1 rays=1 Ro=57.5 v=-142 armed=0 target=49.5..55.5
+59323 gm=0 white=0 r=46.1 rays=1 Ro=57.5 v=-142 armed=0 target=49.5..55.5
+59334 gm=0 white=0 r=46.1 rays=1 Ro=57.5 v=-142 armed=0 target=49.5..55.5
+59352 gm=0 white=0 r=46.1 rays=1 Ro=57.5 v=-142 armed=0 target=49.5..55.5
+59369 gm=0 white=0 r=46.1 rays=1 Ro=57.5 v=-142 armed=0 target=49.5..55.5
+59385 gm=0 white=0 r=46.1 rays=1 Ro=57.5 v=-142 armed=0 target=49.5..55.5
+59398 gm=0 white=0 r=46.1 rays=1 Ro=57.5 v=-142 armed=0 target=49.5..55.5
+59414 gm=0 white=0 r=46.1 rays=1 Ro=57.5 v=-142 armed=0 target=49.5..55.5
+59431 gm=0 white=0 r=46.1 rays=1 Ro=57.5 v=-142 armed=0 target=49.5..55.5
+59448 gm=0 white=0 r=46.1 rays=1 Ro=57.5 v=-142 armed=0 target=49.5..55.5
+59465 gm=0 white=0 r=46.1 rays=1 Ro=57.5 v=-142 armed=0 target=49.5..55.5
+59477 gm=0 white=0 r=46.1 rays=1 Ro=57.5 v=-142 armed=0 target=49.5..55.5
+59494 gm=0 white=0 r=46.1 rays=1 Ro=57.5 v=-142 armed=0 target=49.5..55.5
+59510 gm=0 white=0 r=46.1 rays=1 Ro=57.5 v=-142 armed=0 target=49.5..55.5
+59526 LOST (no ring for 300 ms)
+66156 FOUND centre=960.0,771.5 Ro=97.0
+66171 BRIGHT 26:71,82,64 38:70,81,63 29:70,80,63 60:67,76,64 28:70,81,64 170:126,130,137 162:87,89,71 24:68,78,67 
+66172 gm=16 white=0 r=46.1 rays=0 Ro=97.0 v=0 armed=1 target=89.0..95.0
+66203 BRIGHT 26:71,82,64 38:70,81,63 29:70,80,63 60:67,76,64 28:70,81,64 170:126,130,137 166:87,89,71 24:68,78,67 
+66203 gm=16 white=0 r=46.1 rays=0 Ro=97.0 v=0 armed=1 target=89.0..95.0
+66232 BRIGHT 170:255,255,255 170:255,255,255 170:255,255,255 170:156,159,162 28:70,81,64 170:168,171,176 170:206,206,200 170:249,250,248 
+66233 gm=16 white=0 r=46.1 rays=0 Ro=97.0 v=0 armed=1 target=89.0..95.0
+66266 BRIGHT 166:255,255,255 167:255,255,255 167:255,255,255 167:255,255,255 167:255,255,255 167:255,255,255 167:255,255,255 167:255,255,255 
+66266 gm=16 white=0 r=46.1 rays=0 Ro=97.0 v=0 armed=1 target=89.0..95.0
+66330 gm=16 white=1 r=163.6 rays=40 Ro=97.0 v=0 armed=1 target=89.0..95.0
+66355 gm=16 white=1 r=158.5 rays=40 Ro=97.0 v=-60 armed=1 target=89.0..95.0
+66372 gm=16 white=1 r=156.5 rays=40 Ro=97.0 v=-88 armed=1 target=89.0..95.0
+66389 gm=16 white=1 r=156.0 rays=40 Ro=97.0 v=-58 armed=1 target=89.0..95.0
+66401 gm=16 white=1 r=154.5 rays=40 Ro=97.0 v=-93 armed=1 target=89.0..95.0
+66421 gm=16 white=1 r=151.0 rays=40 Ro=97.0 v=-142 armed=1 target=89.0..95.0
+66451 gm=16 white=1 r=147.5 rays=40 Ro=97.0 v=-130 armed=1 target=89.0..95.0
+66467 gm=16 white=1 r=146.1 rays=40 Ro=97.0 v=-106 armed=1 target=89.0..95.0
+66496 gm=16 white=1 r=142.5 rays=40 Ro=97.0 v=-113 armed=1 target=89.0..95.0
+66514 gm=16 white=1 r=141.0 rays=40 Ro=97.0 v=-97 armed=1 target=89.0..95.0
+66546 gm=16 white=1 r=137.0 rays=40 Ro=97.0 v=-115 armed=1 target=89.0..95.0
+66558 gm=16 white=1 r=136.0 rays=40 Ro=97.0 v=-98 armed=1 target=89.0..95.0
+66576 gm=16 white=1 r=134.0 rays=40 Ro=97.0 v=-110 armed=1 target=89.0..95.0
+66592 gm=16 white=1 r=131.6 rays=40 Ro=97.0 v=-117 armed=1 target=89.0..95.0
+66622 gm=16 white=1 r=129.0 rays=40 Ro=97.0 v=-102 armed=1 target=89.0..95.0
+66633 gm=16 white=1 r=127.6 rays=40 Ro=97.0 v=-105 armed=1 target=89.0..95.0
+66654 gm=16 white=1 r=125.5 rays=40 Ro=97.0 v=-115 armed=1 target=89.0..95.0
+66683 gm=16 white=1 r=122.0 rays=40 Ro=97.0 v=-115 armed=1 target=89.0..95.0
+66700 gm=16 white=1 r=120.0 rays=40 Ro=97.0 v=-116 armed=1 target=89.0..95.0
+66717 gm=16 white=1 r=118.4 rays=40 Ro=97.0 v=-100 armed=1 target=89.0..95.0
+66746 gm=16 white=1 r=115.6 rays=40 Ro=97.0 v=-98 armed=1 target=89.0..95.0
+66774 gm=16 white=1 r=112.0 rays=40 Ro=97.0 v=-111 armed=1 target=89.0..95.0
+66808 gm=16 white=1 r=108.5 rays=40 Ro=97.0 v=-111 armed=1 target=89.0..95.0
+66844 gm=16 white=1 r=105.0 rays=40 Ro=97.0 v=-113 armed=1 target=89.0..95.0
+66958 gm=16 white=1 r=101.4 rays=40 Ro=97.0 v=-110 armed=0 target=89.0..95.0
+66978 gm=16 white=1 r=91.5 rays=40 Ro=97.0 v=-101 armed=0 target=89.0..95.0
+67001 gm=1 white=0 r=91.5 rays=6 Ro=97.0 v=-101 armed=0 target=89.0..95.0
+67032 gm=0 white=0 r=91.5 rays=0 Ro=97.0 v=-101 armed=0 target=89.0..95.0
+67064 gm=0 white=0 r=91.5 rays=1 Ro=97.0 v=-101 armed=0 target=89.0..95.0
+67093 gm=0 white=0 r=91.5 rays=1 Ro=97.0 v=-101 armed=0 target=89.0..95.0
+67122 gm=0 white=0 r=91.5 rays=1 Ro=97.0 v=-101 armed=0 target=89.0..95.0
+67140 gm=0 white=0 r=91.5 rays=1 Ro=97.0 v=-101 armed=0 target=89.0..95.0
+67176 gm=0 white=0 r=91.5 rays=1 Ro=97.0 v=-101 armed=0 target=89.0..95.0
+67197 gm=0 white=0 r=91.5 rays=1 Ro=97.0 v=-101 armed=0 target=89.0..95.0
+67223 gm=0 white=0 r=91.5 rays=1 Ro=97.0 v=-101 armed=0 target=89.0..95.0
+67250 gm=0 white=0 r=91.5 rays=1 Ro=97.0 v=-101 armed=0 target=89.0..95.0
+67280 gm=0 white=0 r=91.5 rays=1 Ro=97.0 v=-101 armed=0 target=89.0..95.0
+67310 LOST (no ring for 300 ms)
+73922 FOUND centre=959.5,771.0 Ro=79.5
+73944 BRIGHT 20:70,81,65 38:71,81,63 21:71,82,63 43:68,78,64 20:71,80,64 139:79,84,94 138:75,80,69 21:68,78,68 
+73945 gm=16 white=0 r=91.5 rays=0 Ro=79.5 v=0 armed=1 target=71.5..77.5
+73981 BRIGHT 20:70,81,65 38:71,81,63 21:71,82,63 43:68,78,64 20:71,80,64 139:79,84,94 138:75,80,69 21:68,78,68 
+73981 gm=16 white=0 r=91.5 rays=0 Ro=79.5 v=0 armed=1 target=71.5..77.5
+74010 BRIGHT 20:70,81,65 38:71,81,63 21:71,82,63 43:68,78,64 20:71,80,64 139:79,85,94 138:75,80,69 21:68,78,68 
+74015 gm=16 white=0 r=91.5 rays=0 Ro=79.5 v=0 armed=1 target=71.5..77.5
+74058 BRIGHT 20:70,81,65 38:71,81,63 21:71,82,63 43:68,78,64 20:71,80,64 139:80,85,94 130:73,78,69 21:68,78,68 
+74058 gm=16 white=0 r=91.5 rays=0 Ro=79.5 v=0 armed=1 target=71.5..77.5
+74106 BRIGHT 20:70,81,65 38:71,81,63 21:71,82,63 43:68,78,64 20:71,80,64 139:80,85,95 130:73,78,69 21:68,78,68 
+74107 gm=16 white=0 r=91.5 rays=0 Ro=79.5 v=0 armed=1 target=71.5..77.5
+74139 BRIGHT 20:70,81,65 38:71,81,63 139:75,82,66 43:68,78,64 139:76,82,93 139:157,160,166 139:182,184,180 21:68,78,68 
+74140 gm=16 white=0 r=91.5 rays=0 Ro=79.5 v=0 armed=1 target=71.5..77.5
+74186 gm=16 white=1 r=133.9 rays=40 Ro=79.5 v=0 armed=1 target=71.5..77.5
+74214 gm=16 white=1 r=129.0 rays=40 Ro=79.5 v=-79 armed=1 target=71.5..77.5
+74229 gm=16 white=1 r=125.5 rays=40 Ro=79.5 v=-139 armed=1 target=71.5..77.5
+74246 gm=16 white=1 r=123.5 rays=40 Ro=79.5 v=-126 armed=1 target=71.5..77.5
+74275 gm=16 white=1 r=118.4 rays=40 Ro=79.5 v=-149 armed=1 target=71.5..77.5
+74292 gm=16 white=1 r=115.0 rays=40 Ro=79.5 v=-172 armed=1 target=71.5..77.5
+74309 gm=16 white=1 r=111.4 rays=40 Ro=79.5 v=-227 armed=1 target=71.5..77.5
+74325 gm=16 white=1 r=109.0 rays=40 Ro=79.5 v=-183 armed=1 target=71.5..77.5
+74337 gm=16 white=1 r=106.5 rays=40 Ro=79.5 v=-189 armed=1 target=71.5..77.5
+74353 gm=16 white=1 r=104.0 rays=40 Ro=79.5 v=-166 armed=1 target=71.5..77.5
+74371 gm=16 white=1 r=101.0 rays=40 Ro=79.5 v=-166 armed=1 target=71.5..77.5
+74383 gm=16 white=1 r=99.5 rays=40 Ro=79.5 v=-148 armed=1 target=71.5..77.5
+74403 gm=16 white=1 r=95.1 rays=40 Ro=79.5 v=-190 armed=1 target=71.5..77.5
+74420 gm=16 white=1 r=92.5 rays=40 Ro=79.5 v=-169 armed=1 target=71.5..77.5
+74519 gm=16 white=1 r=90.1 rays=40 Ro=79.5 v=-188 armed=0 target=71.5..77.5
+74540 gm=16 white=1 r=74.5 rays=40 Ro=79.5 v=-166 armed=0 target=71.5..77.5
+74560 gm=0 white=0 r=74.5 rays=0 Ro=79.5 v=-166 armed=0 target=71.5..77.5
+74577 gm=0 white=0 r=74.5 rays=0 Ro=79.5 v=-166 armed=0 target=71.5..77.5
+74605 gm=0 white=0 r=74.5 rays=0 Ro=79.5 v=-166 armed=0 target=71.5..77.5
+74626 gm=0 white=0 r=74.5 rays=1 Ro=79.5 v=-166 armed=0 target=71.5..77.5
+74651 gm=0 white=0 r=74.5 rays=1 Ro=79.5 v=-166 armed=0 target=71.5..77.5
+74668 gm=0 white=0 r=74.5 rays=1 Ro=79.5 v=-166 armed=0 target=71.5..77.5
+74680 gm=0 white=0 r=74.5 rays=1 Ro=79.5 v=-166 armed=0 target=71.5..77.5
+74697 gm=0 white=0 r=74.5 rays=0 Ro=79.5 v=-166 armed=0 target=71.5..77.5
+74714 gm=0 white=0 r=74.5 rays=0 Ro=79.5 v=-166 armed=0 target=71.5..77.5
+74735 gm=0 white=0 r=74.5 rays=0 Ro=79.5 v=-166 armed=0 target=71.5..77.5
+74759 gm=0 white=0 r=74.5 rays=0 Ro=79.5 v=-166 armed=0 target=71.5..77.5
+74775 gm=0 white=0 r=74.5 rays=0 Ro=79.5 v=-166 armed=0 target=71.5..77.5
+74794 gm=0 white=0 r=74.5 rays=0 Ro=79.5 v=-166 armed=0 target=71.5..77.5
+74814 gm=0 white=0 r=74.5 rays=0 Ro=79.5 v=-166 armed=0 target=71.5..77.5
+74839 gm=0 white=0 r=74.5 rays=0 Ro=79.5 v=-166 armed=0 target=71.5..77.5
+74859 LOST (no ring for 300 ms)
+81499 FOUND centre=959.5,771.0 Ro=107.0
+81516 gm=16 white=1 r=153.5 rays=40 Ro=107.0 v=0 armed=1 target=99.0..105.0
+81544 gm=16 white=1 r=147.5 rays=40 Ro=107.0 v=-31 armed=1 target=99.0..105.0
+81557 gm=16 white=1 r=145.5 rays=40 Ro=107.0 v=-98 armed=1 target=99.0..105.0
+81574 gm=16 white=1 r=142.5 rays=40 Ro=107.0 v=-132 armed=1 target=99.0..105.0
+81590 gm=16 white=1 r=140.5 rays=40 Ro=107.0 v=-127 armed=1 target=99.0..105.0
+81606 gm=16 white=1 r=137.0 rays=40 Ro=107.0 v=-198 armed=1 target=99.0..105.0
+81622 gm=16 white=1 r=134.0 rays=40 Ro=107.0 v=-182 armed=1 target=99.0..105.0
+81639 gm=16 white=1 r=132.1 rays=40 Ro=107.0 v=-152 armed=1 target=99.0..105.0
+81652 gm=16 white=1 r=129.0 rays=40 Ro=107.0 v=-181 armed=1 target=99.0..105.0
+81669 gm=16 white=1 r=127.1 rays=40 Ro=107.0 v=-146 armed=1 target=99.0..105.0
+81681 gm=16 white=1 r=125.5 rays=40 Ro=107.0 v=-139 armed=1 target=99.0..105.0
+81702 gm=16 white=1 r=121.0 rays=40 Ro=107.0 v=-193 armed=1 target=99.0..105.0
+81798 gm=16 white=1 r=115.9 rays=40 Ro=107.0 v=-181 armed=0 target=99.0..105.0
+81822 gm=16 white=1 r=103.6 rays=40 Ro=107.0 v=-156 armed=0 target=99.0..105.0
+81840 gm=1 white=0 r=103.6 rays=13 Ro=107.0 v=-156 armed=0 target=99.0..105.0
+81858 gm=0 white=0 r=103.6 rays=2 Ro=107.0 v=-156 armed=0 target=99.0..105.0
+81887 gm=0 white=0 r=103.6 rays=1 Ro=107.0 v=-156 armed=0 target=99.0..105.0
+81904 gm=0 white=0 r=103.6 rays=1 Ro=107.0 v=-156 armed=0 target=99.0..105.0
+81921 gm=0 white=0 r=103.6 rays=1 Ro=107.0 v=-156 armed=0 target=99.0..105.0
+81949 gm=0 white=0 r=103.6 rays=1 Ro=107.0 v=-156 armed=0 target=99.0..105.0
+81966 gm=0 white=0 r=103.6 rays=1 Ro=107.0 v=-156 armed=0 target=99.0..105.0
+81979 gm=0 white=0 r=103.6 rays=1 Ro=107.0 v=-156 armed=0 target=99.0..105.0
+81995 gm=0 white=0 r=103.6 rays=1 Ro=107.0 v=-156 armed=0 target=99.0..105.0
+82012 gm=0 white=0 r=103.6 rays=1 Ro=107.0 v=-156 armed=0 target=99.0..105.0
+82030 gm=0 white=0 r=103.6 rays=1 Ro=107.0 v=-156 armed=0 target=99.0..105.0
+82059 gm=0 white=0 r=103.6 rays=1 Ro=107.0 v=-156 armed=0 target=99.0..105.0
+82076 gm=0 white=0 r=103.6 rays=1 Ro=107.0 v=-156 armed=0 target=99.0..105.0
+82088 gm=0 white=0 r=103.6 rays=1 Ro=107.0 v=-156 armed=0 target=99.0..105.0
+82104 gm=0 white=0 r=103.6 rays=1 Ro=107.0 v=-156 armed=0 target=99.0..105.0
+82124 gm=0 white=0 r=103.6 rays=1 Ro=107.0 v=-156 armed=0 target=99.0..105.0
+82154 LOST (no ring for 300 ms)
+88754 FOUND centre=959.5,771.5 Ro=92.5
+88769 BRIGHT 119:67,78,67 38:71,81,63 28:70,79,63 59:67,76,64 28:70,81,64 161:117,123,131 155:86,89,73 23:68,78,67 
+88770 gm=16 white=0 r=103.6 rays=0 Ro=92.5 v=0 armed=1 target=84.5..90.5
+88814 BRIGHT 119:67,78,67 38:71,81,63 28:70,79,63 59:67,76,64 28:70,81,64 161:117,123,131 155:86,89,73 23:68,78,67 
+88815 gm=16 white=0 r=103.6 rays=0 Ro=92.5 v=0 armed=1 target=84.5..90.5
+88864 BRIGHT 161:255,255,255 160:255,255,255 160:255,255,255 160:255,255,255 161:255,255,255 161:255,255,255 161:255,255,255 161:255,255,255 
+88865 gm=16 white=0 r=103.6 rays=0 Ro=92.5 v=0 armed=1 target=84.5..90.5
+88908 gm=16 white=1 r=156.0 rays=40 Ro=92.5 v=0 armed=1 target=84.5..90.5
+88938 gm=16 white=1 r=151.9 rays=40 Ro=92.5 v=-58 armed=1 target=84.5..90.5
+88967 gm=16 white=1 r=148.4 rays=40 Ro=92.5 v=-89 armed=1 target=84.5..90.5
+88983 gm=16 white=1 r=147.0 rays=40 Ro=92.5 v=-84 armed=1 target=84.5..90.5
+89003 gm=16 white=1 r=145.0 rays=40 Ro=92.5 v=-120 armed=1 target=84.5..90.5
+89024 gm=16 white=1 r=142.9 rays=40 Ro=92.5 v=-96 armed=1 target=84.5..90.5
+89041 gm=16 white=1 r=140.5 rays=40 Ro=92.5 v=-117 armed=1 target=84.5..90.5
+89062 gm=16 white=1 r=137.4 rays=40 Ro=92.5 v=-148 armed=1 target=84.5..90.5
+89090 gm=16 white=1 r=133.9 rays=40 Ro=92.5 v=-131 armed=1 target=84.5..90.5
+89107 gm=16 white=1 r=133.0 rays=40 Ro=92.5 v=-91 armed=1 target=84.5..90.5
+89119 gm=16 white=1 r=130.4 rays=40 Ro=92.5 v=-164 armed=1 target=84.5..90.5
+89165 gm=16 white=1 r=126.0 rays=40 Ro=92.5 v=-129 armed=1 target=84.5..90.5
+89203 gm=16 white=1 r=121.5 rays=40 Ro=92.5 v=-126 armed=1 target=84.5..90.5
+89227 gm=16 white=1 r=118.5 rays=40 Ro=92.5 v=-121 armed=1 target=84.5..90.5
+89260 gm=16 white=1 r=114.5 rays=40 Ro=92.5 v=-122 armed=1 target=84.5..90.5
+89289 gm=16 white=1 r=110.9 rays=40 Ro=92.5 v=-120 armed=1 target=84.5..90.5
+89327 gm=16 white=1 r=106.4 rays=40 Ro=92.5 v=-123 armed=1 target=84.5..90.5
+89352 gm=16 white=1 r=104.1 rays=40 Ro=92.5 v=-104 armed=1 target=84.5..90.5
+89372 gm=16 white=1 r=101.0 rays=40 Ro=92.5 v=-128 armed=1 target=84.5..90.5
+89385 gm=16 white=1 r=100.0 rays=40 Ro=92.5 v=-114 armed=1 target=84.5..90.5
+89500 gm=16 white=1 r=98.1 rays=40 Ro=92.5 v=-111 armed=0 target=84.5..90.5
+89529 gm=0 white=0 r=98.1 rays=0 Ro=92.5 v=-111 armed=0 target=84.5..90.5
+89559 gm=0 white=0 r=98.1 rays=1 Ro=92.5 v=-111 armed=0 target=84.5..90.5
+89579 gm=0 white=0 r=98.1 rays=1 Ro=92.5 v=-111 armed=0 target=84.5..90.5
+89605 gm=0 white=0 r=98.1 rays=1 Ro=92.5 v=-111 armed=0 target=84.5..90.5
+89626 gm=0 white=0 r=98.1 rays=1 Ro=92.5 v=-111 armed=0 target=84.5..90.5
+89650 gm=0 white=0 r=98.1 rays=1 Ro=92.5 v=-111 armed=0 target=84.5..90.5
+89667 gm=0 white=0 r=98.1 rays=1 Ro=92.5 v=-111 armed=0 target=84.5..90.5
+89688 gm=0 white=0 r=98.1 rays=1 Ro=92.5 v=-111 armed=0 target=84.5..90.5
+89712 LOST (no ring for 300 ms)
+96442 FOUND centre=960.0,771.5 Ro=56.0
+96455 BRIGHT 14:69,80,66 14:71,82,62 20:71,82,63 15:70,81,64 15:69,81,66 95:69,77,69 82:69,78,67 22:68,79,68 
+96459 gm=16 white=0 r=98.1 rays=0 Ro=56.0 v=0 armed=1 target=48.0..54.0
+96494 BRIGHT 14:69,80,66 14:71,82,62 20:71,82,63 15:70,81,64 15:69,81,66 95:69,77,69 82:69,78,67 22:68,79,68 
+96495 gm=16 white=0 r=98.1 rays=0 Ro=56.0 v=0 armed=1 target=48.0..54.0
+96527 BRIGHT 14:69,80,66 14:71,82,62 20:71,82,63 15:70,81,64 15:69,81,66 95:69,77,69 82:69,78,67 22:68,79,68 
+96528 gm=16 white=0 r=98.1 rays=0 Ro=56.0 v=0 armed=1 target=48.0..54.0
+96556 BRIGHT 14:69,80,66 14:71,82,62 20:71,82,63 15:70,81,64 15:69,81,66 95:69,77,69 82:69,78,67 22:68,79,68 
+96557 gm=16 white=0 r=98.1 rays=0 Ro=56.0 v=0 armed=1 target=48.0..54.0
+96586 BRIGHT 14:69,80,66 14:71,82,62 20:71,82,63 15:70,81,64 15:69,81,66 95:69,77,69 82:69,78,67 22:68,79,68 
+96620 gm=16 white=0 r=98.1 rays=0 Ro=56.0 v=0 armed=1 target=48.0..54.0
+96682 BRIGHT 14:69,80,66 14:71,82,62 20:71,82,63 15:70,81,64 15:69,81,66 95:69,77,69 84:70,78,67 22:68,79,68 
+96706 gm=16 white=0 r=98.1 rays=0 Ro=56.0 v=0 armed=1 target=48.0..54.0
+96758 BRIGHT 14:69,80,66 14:71,82,62 20:71,82,63 15:70,81,64 15:69,81,66 95:69,77,69 84:70,78,67 22:68,79,68 
+96788 gm=16 white=0 r=98.1 rays=0 Ro=56.0 v=0 armed=1 target=48.0..54.0
+96853 BRIGHT 14:69,80,66 14:71,82,62 20:71,82,63 15:70,81,64 15:69,81,66 95:69,77,69 84:70,78,67 22:68,79,68 
+96870 gm=16 white=0 r=98.1 rays=0 Ro=56.0 v=0 armed=1 target=48.0..54.0
+96933 BRIGHT 14:69,80,66 14:71,82,62 20:71,82,63 15:70,81,64 15:69,81,66 95:69,77,69 84:70,78,67 22:68,79,68 
+96954 gm=16 white=0 r=98.1 rays=0 Ro=56.0 v=0 armed=1 target=48.0..54.0
+97011 BRIGHT 14:69,80,66 14:71,82,62 20:71,82,63 15:70,81,64 15:69,81,66 95:69,77,69 84:70,78,67 22:68,79,68 
+97041 gm=16 white=0 r=98.1 rays=0 Ro=56.0 v=0 armed=1 target=48.0..54.0
+97107 BRIGHT 14:69,80,66 14:71,82,62 20:71,82,63 15:70,81,64 15:69,81,66 95:69,77,69 84:70,78,67 22:68,79,68 
+97136 gm=16 white=0 r=98.1 rays=0 Ro=56.0 v=0 armed=1 target=48.0..54.0
+97196 BRIGHT 14:69,80,66 14:71,82,62 20:71,82,63 15:70,81,64 15:69,81,66 95:69,77,69 84:70,78,67 22:68,79,68 
+97225 gm=16 white=0 r=98.1 rays=0 Ro=56.0 v=0 armed=1 target=48.0..54.0
+97290 BRIGHT 14:69,80,66 14:71,82,62 20:71,82,63 15:70,81,64 15:69,81,66 94:69,77,69 84:70,78,67 22:68,79,68 
+97310 gm=16 white=0 r=98.1 rays=0 Ro=56.0 v=0 armed=1 target=48.0..54.0
+97341 BRIGHT 14:69,80,66 14:71,82,62 20:71,82,63 15:70,81,64 15:69,81,66 94:69,77,69 84:70,78,67 22:68,79,68 
+97341 gm=16 white=0 r=98.1 rays=0 Ro=56.0 v=0 armed=1 target=48.0..54.0
+97386 BRIGHT 97:255,255,255 98:255,255,255 97:255,255,255 97:255,255,255 97:255,255,255 98:255,255,255 98:255,255,255 97:255,255,255 
+97387 gm=16 white=0 r=98.1 rays=0 Ro=56.0 v=0 armed=1 target=48.0..54.0
+97416 BRIGHT 95:255,255,255 95:255,255,255 96:255,255,255 95:255,255,255 95:255,255,255 95:255,255,255 96:255,255,255 95:255,255,255 
+97416 gm=16 white=0 r=98.1 rays=0 Ro=56.0 v=0 armed=1 target=48.0..54.0
+97452 gm=16 white=1 r=94.6 rays=40 Ro=56.0 v=0 armed=1 target=48.0..54.0
+97478 gm=16 white=1 r=91.5 rays=40 Ro=56.0 v=-49 armed=1 target=48.0..54.0
+97495 gm=16 white=1 r=90.1 rays=40 Ro=56.0 v=-68 armed=1 target=48.0..54.0
+97510 gm=16 white=1 r=89.0 rays=40 Ro=56.0 v=-63 armed=1 target=48.0..54.0
+97556 gm=16 white=1 r=85.0 rays=40 Ro=56.0 v=-78 armed=1 target=48.0..54.0
+97569 gm=16 white=1 r=84.0 rays=40 Ro=56.0 v=-72 armed=1 target=48.0..54.0
+97589 gm=16 white=1 r=82.0 rays=40 Ro=56.0 v=-87 armed=1 target=48.0..54.0
+97606 gm=16 white=1 r=80.6 rays=40 Ro=56.0 v=-87 armed=1 target=48.0..54.0
+97619 gm=16 white=1 r=79.6 rays=40 Ro=56.0 v=-84 armed=1 target=48.0..54.0
+97635 gm=16 white=1 r=78.4 rays=40 Ro=56.0 v=-76 armed=1 target=48.0..54.0
+97647 gm=16 white=1 r=77.0 rays=40 Ro=56.0 v=-93 armed=1 target=48.0..54.0
+97665 gm=16 white=1 r=76.0 rays=40 Ro=56.0 v=-74 armed=1 target=48.0..54.0
+97678 gm=16 white=1 r=75.4 rays=40 Ro=56.0 v=-61 armed=1 target=48.0..54.0
+97698 gm=16 white=1 r=73.5 rays=40 Ro=56.0 v=-85 armed=1 target=48.0..54.0
+97713 gm=16 white=1 r=71.5 rays=40 Ro=56.0 v=-100 armed=1 target=48.0..54.0
+97743 gm=16 white=1 r=69.0 rays=40 Ro=56.0 v=-91 armed=1 target=48.0..54.0
+97755 gm=16 white=1 r=68.5 rays=40 Ro=56.0 v=-65 armed=1 target=48.0..54.0
+97772 gm=16 white=1 r=66.4 rays=40 Ro=56.0 v=-96 armed=1 target=48.0..54.0
+97801 gm=16 white=1 r=65.0 rays=40 Ro=56.0 v=-71 armed=1 target=48.0..54.0
+97819 gm=16 white=1 r=63.5 rays=40 Ro=56.0 v=-83 armed=1 target=48.0..54.0
+97838 gm=16 white=1 r=61.4 rays=40 Ro=56.0 v=-95 armed=1 target=48.0..54.0
+97969 gm=16 white=1 r=58.9 rays=40 Ro=56.0 v=-91 armed=0 target=48.0..54.0
+98004 gm=16 white=1 r=51.0 rays=40 Ro=56.0 v=-77 armed=0 target=48.0..54.0
+98023 gm=0 white=0 r=51.0 rays=0 Ro=56.0 v=-77 armed=0 target=48.0..54.0
+98041 gm=0 white=0 r=51.0 rays=0 Ro=56.0 v=-77 armed=0 target=48.0..54.0
+98053 gm=0 white=0 r=51.0 rays=1 Ro=56.0 v=-77 armed=0 target=48.0..54.0
+98073 gm=0 white=0 r=51.0 rays=1 Ro=56.0 v=-77 armed=0 target=48.0..54.0
+98090 gm=0 white=0 r=51.0 rays=1 Ro=56.0 v=-77 armed=0 target=48.0..54.0
+98106 gm=0 white=0 r=51.0 rays=1 Ro=56.0 v=-77 armed=0 target=48.0..54.0
+98119 gm=0 white=0 r=51.0 rays=1 Ro=56.0 v=-77 armed=0 target=48.0..54.0
+98132 gm=0 white=0 r=51.0 rays=1 Ro=56.0 v=-77 armed=0 target=48.0..54.0
+98153 gm=0 white=0 r=51.0 rays=1 Ro=56.0 v=-77 armed=0 target=48.0..54.0
+98170 gm=0 white=0 r=51.0 rays=1 Ro=56.0 v=-77 armed=0 target=48.0..54.0
+98198 gm=0 white=0 r=51.0 rays=1 Ro=56.0 v=-77 armed=0 target=48.0..54.0
+98215 gm=0 white=0 r=51.0 rays=1 Ro=56.0 v=-77 armed=0 target=48.0..54.0
+98232 gm=0 white=0 r=51.0 rays=1 Ro=56.0 v=-77 armed=0 target=48.0..54.0
+98244 gm=0 white=0 r=51.0 rays=1 Ro=56.0 v=-77 armed=0 target=48.0..54.0
+98263 gm=0 white=0 r=51.0 rays=1 Ro=56.0 v=-77 armed=0 target=48.0..54.0
+98278 gm=0 white=0 r=51.0 rays=1 Ro=56.0 v=-77 armed=0 target=48.0..54.0
+98312 LOST (no ring for 300 ms)
+104894 FOUND centre=959.5,771.5 Ro=58.5
+104907 BRIGHT 16:69,80,65 18:72,83,63 20:71,82,63 16:70,80,64 15:70,80,66 98:71,79,71 93:70,78,67 22:68,79,68 
+104911 gm=16 white=0 r=51.0 rays=0 Ro=58.5 v=0 armed=1 target=50.5..56.5
+104949 BRIGHT 16:69,80,65 18:72,83,63 20:71,82,63 16:70,80,64 15:70,80,66 98:71,79,71 93:70,78,67 22:68,79,68 
+104950 gm=16 white=0 r=51.0 rays=0 Ro=58.5 v=0 armed=1 target=50.5..56.5
+104980 BRIGHT 16:69,80,65 18:72,83,63 20:71,82,63 16:70,80,64 15:70,80,66 98:71,79,71 93:70,78,67 22:68,79,68 
+104980 gm=16 white=0 r=51.0 rays=0 Ro=58.5 v=0 armed=1 target=50.5..56.5
+105009 BRIGHT 16:69,80,65 18:72,83,63 20:71,82,63 16:70,80,64 15:70,80,66 98:71,79,71 93:70,78,67 22:68,79,68 
+105009 gm=16 white=0 r=51.0 rays=0 Ro=58.5 v=0 armed=1 target=50.5..56.5
+105041 BRIGHT 16:69,80,65 18:72,83,63 20:71,82,63 16:70,80,64 15:70,80,66 98:71,79,71 93:70,78,67 22:68,79,68 
+105042 gm=16 white=0 r=51.0 rays=0 Ro=58.5 v=0 armed=1 target=50.5..56.5
+105075 BRIGHT 16:69,80,65 18:72,83,63 20:71,82,63 16:70,80,64 15:70,80,66 98:71,79,71 93:70,78,67 22:68,79,68 
+105075 gm=16 white=0 r=51.0 rays=0 Ro=58.5 v=0 armed=1 target=50.5..56.5
+105104 BRIGHT 16:69,80,65 18:72,83,63 20:71,82,63 16:70,80,64 15:70,80,66 98:71,79,71 93:70,78,67 22:68,79,68 
+105104 gm=16 white=0 r=51.0 rays=0 Ro=58.5 v=0 armed=1 target=50.5..56.5
+105133 BRIGHT 16:69,80,65 18:72,83,63 20:71,82,63 16:70,80,64 15:70,80,66 98:71,79,71 93:70,78,67 22:68,79,68 
+105134 gm=16 white=0 r=51.0 rays=0 Ro=58.5 v=0 armed=1 target=50.5..56.5
+105166 BRIGHT 16:69,80,65 18:72,83,63 20:71,82,63 16:70,80,64 15:70,80,66 98:71,79,71 93:70,78,67 22:68,79,68 
+105167 gm=16 white=0 r=51.0 rays=0 Ro=58.5 v=0 armed=1 target=50.5..56.5
+105199 BRIGHT 16:69,80,65 18:72,83,63 20:71,82,63 16:70,80,64 15:70,80,66 98:71,79,71 93:70,78,67 22:68,79,68 
+105200 gm=16 white=0 r=51.0 rays=0 Ro=58.5 v=0 armed=1 target=50.5..56.5
+105230 BRIGHT 16:69,80,65 18:72,83,63 20:71,82,63 16:70,80,64 15:70,80,66 98:71,79,71 93:70,78,67 22:68,79,68 
+105230 gm=16 white=0 r=51.0 rays=0 Ro=58.5 v=0 armed=1 target=50.5..56.5
+105276 BRIGHT 16:69,80,65 18:72,83,63 20:71,82,63 16:70,80,64 15:70,80,66 98:71,79,71 93:70,78,67 22:68,79,68 
+105300 gm=16 white=0 r=51.0 rays=0 Ro=58.5 v=0 armed=1 target=50.5..56.5
+105355 BRIGHT 16:69,80,65 18:72,83,63 20:71,82,63 16:70,80,64 15:70,80,66 98:71,79,71 93:70,78,67 22:68,79,68 
+105369 gm=16 white=0 r=51.0 rays=0 Ro=58.5 v=0 armed=1 target=50.5..56.5
+105416 BRIGHT 16:69,80,65 18:72,83,63 20:71,82,63 16:70,80,64 15:70,80,66 98:71,79,71 93:70,78,67 22:68,79,68 
+105436 gm=16 white=0 r=51.0 rays=0 Ro=58.5 v=0 armed=1 target=50.5..56.5
+105496 BRIGHT 16:69,80,65 18:72,83,63 20:71,82,63 16:70,80,64 15:70,80,66 98:71,79,71 93:70,78,67 22:68,79,68 
+105500 gm=16 white=0 r=51.0 rays=0 Ro=58.5 v=0 armed=1 target=50.5..56.5
+105542 BRIGHT 16:69,80,65 18:72,83,63 20:71,82,63 16:70,80,64 15:70,80,66 98:71,79,71 93:70,78,67 22:68,79,68 
+105552 gm=16 white=0 r=51.0 rays=0 Ro=58.5 v=0 armed=1 target=50.5..56.5
+105588 BRIGHT 16:69,80,65 18:72,83,63 20:71,82,63 16:70,80,64 15:70,80,66 102:71,80,72 93:70,78,67 22:68,79,68 
+105588 gm=16 white=0 r=51.0 rays=0 Ro=58.5 v=0 armed=1 target=50.5..56.5
+105616 BRIGHT 16:69,80,65 18:72,83,63 20:71,82,63 16:70,80,64 15:70,80,66 102:71,80,71 93:70,78,67 22:68,79,68 
+105617 gm=16 white=0 r=51.0 rays=0 Ro=58.5 v=0 armed=1 target=50.5..56.5
+105651 BRIGHT 16:69,80,65 18:72,83,63 20:71,82,63 16:70,80,64 15:70,80,66 102:71,80,71 93:70,78,67 22:68,79,68 
+105651 gm=16 white=0 r=51.0 rays=0 Ro=58.5 v=0 armed=1 target=50.5..56.5
+105683 BRIGHT 16:69,80,65 18:72,83,63 20:71,82,63 16:70,80,64 15:70,80,66 102:71,79,71 93:70,78,67 22:68,79,68 
+105684 gm=16 white=0 r=51.0 rays=0 Ro=58.5 v=0 armed=1 target=50.5..56.5
+105712 BRIGHT 16:69,80,65 18:72,83,63 20:71,82,63 16:70,80,64 15:70,80,66 102:71,79,71 93:70,78,67 22:68,79,68 
+105717 gm=16 white=0 r=51.0 rays=0 Ro=58.5 v=0 armed=1 target=50.5..56.5
+105749 BRIGHT 16:69,80,65 18:72,83,63 20:71,82,63 16:70,80,64 15:70,80,66 102:71,79,71 93:70,78,67 22:68,79,68 
+105750 gm=16 white=0 r=51.0 rays=0 Ro=58.5 v=0 armed=1 target=50.5..56.5
+105778 BRIGHT 102:106,113,95 102:165,169,159 102:174,178,170 102:140,145,150 15:70,80,66 102:71,79,71 93:70,78,67 22:68,79,68 
+105779 gm=16 white=0 r=51.0 rays=0 Ro=58.5 v=0 armed=1 target=50.5..56.5
+105808 BRIGHT 100:255,255,255 100:255,255,255 100:255,255,255 100:255,255,255 101:255,255,255 101:255,255,255 101:255,255,255 101:255,255,255 
+105809 gm=16 white=0 r=51.0 rays=0 Ro=58.5 v=0 armed=1 target=50.5..56.5
+105839 BRIGHT 99:255,255,255 99:255,255,255 99:255,255,255 98:255,255,255 98:255,255,255 99:255,255,255 99:255,255,255 99:255,255,255 
+105839 gm=16 white=0 r=51.0 rays=8 Ro=58.5 v=0 armed=1 target=50.5..56.5
+105876 gm=16 white=1 r=96.4 rays=40 Ro=58.5 v=0 armed=1 target=50.5..56.5
+105907 gm=16 white=1 r=93.0 rays=40 Ro=58.5 v=-57 armed=1 target=50.5..56.5
+105936 gm=16 white=1 r=90.1 rays=40 Ro=58.5 v=-77 armed=1 target=50.5..56.5
+105946 gm=16 white=1 r=89.6 rays=40 Ro=58.5 v=-56 armed=1 target=50.5..56.5
+105983 gm=16 white=1 r=86.2 rays=40 Ro=58.5 v=-77 armed=1 target=50.5..56.5
+106000 gm=16 white=1 r=84.1 rays=40 Ro=58.5 v=-100 armed=1 target=50.5..56.5
+106029 gm=16 white=1 r=81.1 rays=40 Ro=58.5 v=-102 armed=1 target=50.5..56.5
+106045 gm=16 white=1 r=80.0 rays=40 Ro=58.5 v=-84 armed=1 target=50.5..56.5
+106057 gm=16 white=1 r=77.9 rays=40 Ro=58.5 v=-120 armed=1 target=50.5..56.5
+106073 gm=16 white=1 r=76.9 rays=40 Ro=58.5 v=-88 armed=1 target=50.5..56.5
+106086 gm=16 white=1 r=74.8 rays=40 Ro=58.5 v=-131 armed=1 target=50.5..56.5
+106103 gm=16 white=1 r=73.9 rays=40 Ro=58.5 v=-91 armed=1 target=50.5..56.5
+106115 gm=16 white=1 r=72.0 rays=40 Ro=58.5 v=-123 armed=1 target=50.5..56.5
+106132 gm=16 white=1 r=70.4 rays=40 Ro=58.5 v=-107 armed=1 target=50.5..56.5
+106153 gm=16 white=1 r=68.9 rays=40 Ro=58.5 v=-96 armed=1 target=50.5..56.5
+106165 gm=16 white=1 r=68.0 rays=40 Ro=58.5 v=-83 armed=1 target=50.5..56.5
+106198 gm=16 white=1 r=65.0 rays=40 Ro=58.5 v=-86 armed=1 target=50.5..56.5
+106281 gm=16 white=1 r=63.0 rays=40 Ro=58.5 v=-115 armed=0 target=50.5..56.5
+106306 gm=16 white=1 r=54.9 rays=40 Ro=58.5 v=-100 armed=0 target=50.5..56.5
+106319 gm=16 white=1 r=54.9 rays=40 Ro=58.5 v=-50 armed=0 target=50.5..56.5
+106358 gm=0 white=0 r=54.9 rays=0 Ro=58.5 v=-50 armed=0 target=50.5..56.5
+106384 gm=0 white=0 r=54.9 rays=1 Ro=58.5 v=-50 armed=0 target=50.5..56.5
+106399 gm=0 white=0 r=54.9 rays=1 Ro=58.5 v=-50 armed=0 target=50.5..56.5
+106434 gm=0 white=0 r=54.9 rays=1 Ro=58.5 v=-50 armed=0 target=50.5..56.5
+106447 gm=0 white=0 r=54.9 rays=1 Ro=58.5 v=-50 armed=0 target=50.5..56.5
+106479 gm=0 white=0 r=54.9 rays=1 Ro=58.5 v=-50 armed=0 target=50.5..56.5
+106495 gm=0 white=0 r=54.9 rays=1 Ro=58.5 v=-50 armed=0 target=50.5..56.5
+106529 gm=0 white=0 r=54.9 rays=1 Ro=58.5 v=-50 armed=0 target=50.5..56.5
+106542 gm=0 white=0 r=54.9 rays=1 Ro=58.5 v=-50 armed=0 target=50.5..56.5
+106571 gm=0 white=0 r=54.9 rays=1 Ro=58.5 v=-50 armed=0 target=50.5..56.5
+106604 gm=0 white=0 r=54.9 rays=1 Ro=58.5 v=-50 armed=0 target=50.5..56.5
+106617 gm=0 white=0 r=54.9 rays=1 Ro=58.5 v=-50 armed=0 target=50.5..56.5
+106650 LOST (no ring for 300 ms)
+113947 no ring for 7500 ms -> Z
+114147 FOUND centre=959.5,771.5 Ro=59.5
+114159 BRIGHT 16:69,80,65 18:72,83,63 20:71,82,63 16:70,80,64 15:70,80,66 97:75,84,96 19:72,82,65 22:68,79,68 
+114180 gm=16 white=0 r=54.9 rays=0 Ro=59.5 v=0 armed=1 target=51.5..57.5
+114227 BRIGHT 16:69,80,65 22:73,83,63 20:71,82,63 16:70,80,64 15:70,80,66 102:71,79,71 84:69,78,67 22:68,79,68 
+114241 gm=16 white=0 r=54.9 rays=0 Ro=59.5 v=0 armed=1 target=51.5..57.5
+114294 BRIGHT 16:69,80,65 22:73,83,63 20:71,82,63 16:70,80,64 15:70,80,66 102:71,79,71 84:69,78,67 22:68,79,68 
+114307 gm=16 white=0 r=54.9 rays=0 Ro=59.5 v=0 armed=1 target=51.5..57.5
+114354 BRIGHT 16:69,80,65 22:73,83,63 20:71,82,63 16:70,80,64 15:70,80,66 102:71,79,72 93:70,78,68 22:68,79,68 
+114368 gm=16 white=0 r=54.9 rays=0 Ro=59.5 v=0 armed=1 target=51.5..57.5
+114415 BRIGHT 16:69,80,65 22:73,83,63 20:71,82,63 16:70,80,64 15:70,80,66 102:71,79,72 93:70,78,68 22:68,79,68 
+114430 gm=16 white=0 r=54.9 rays=0 Ro=59.5 v=0 armed=1 target=51.5..57.5
+114481 BRIGHT 16:69,80,65 22:73,83,63 20:71,82,63 16:70,80,64 15:70,80,66 102:71,79,72 93:70,78,68 22:68,79,68 
+114494 gm=16 white=0 r=54.9 rays=0 Ro=59.5 v=0 armed=1 target=51.5..57.5

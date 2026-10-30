@@ -1,0 +1,7 @@
+﻿screen 1920x1080  region 660,432 792x619
+ring FOUND centre (959.5,771.5)  outer radius 54.5 px  diameter 110 px  (reference 263)
+ring size vs reference: 0.418  (screen height scale: 1.000)
+target radius: 45.0 .. 55.0 px
+green check: 0 / 16
+white ring NOT found
+time: 47 ms
