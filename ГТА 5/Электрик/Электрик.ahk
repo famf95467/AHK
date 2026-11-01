@@ -1,4 +1,4 @@
-﻿; =====================================================================
+; =====================================================================
 ; ЭЛЕКТРИК (мини-игра WATT)  -  AutoHotkey v1
 ; v3: если молнии нет на миникарте - крутим камеру и ищем (BoltSearch).
 ; v2: навигация - поворот камерой вместо змейки A/D, подсказка E над маркером, обход препятствий.
@@ -115,8 +115,16 @@ global MarkSlowW := 130       ; ширина маркера (px), с котор�
 global CharX := 815           ; x персонажа на экране (база 1080p, на скрине ~815); курс бега сходится к центру экрана 960
 global EFallbackMs := 3000    ; маркер вплотную, а подсказки E не видно столько мс - жмём E вслепую
 global StillDiffMax := 1.3    ; средняя разница кадров фона ниже этого при зажатой W = мы стоим
-global StillMs := 650         ; стоим столько мс при зажатой W = упёрлись в препятствие
-global ClearMin := 160        ; (для F8) глубина свободного пола в полосе: меньше = препятствие рядом
+global StillMs := 450         ; стоим столько мс при зажатой W = упёрлись в препятствие
+global ClearMin := 160
+; --- v4: прыжок (пробел), когда упёрлись
+global JumpOn := 1
+global JumpKeyDn := "{sc039 down}"
+global JumpKeyUp := "{sc039 up}"
+global JumpLast := 0
+global JumpTries := 0
+global FloorLumMax := 175   ; v3: светлый бетон тоже пол (было 130)
+global FloorFlat := 22      ; v3: допуск неровности пола, трещины бетона (было 14)        ; (для F8) глубина свободного пола в полосе: меньше = препятствие рядом
 global CamDpc := 0            ; градусов поворота вправо на +1 тик мыши (определяется калибровкой; 0 = не определено)
 global CamCalDone := 0
 global CamDpc0 := 0
@@ -141,6 +149,24 @@ global SigPrev := []
 global DetourLevel := 0
 global DetourLast := 0
 global DetourSide := 1
+global DetourHoldUntil := 0
+; --- v2: камера по клавише C, обход точки по миникарте
+global CamResetOn := 1
+global CamResetKeyDn := "{sc02E down}"
+global CamResetKeyUp := "{sc02E up}"
+global CamResetEveryMs := 7000
+global LastCamReset := 0
+global LastCamMoveT := 0
+global CircRBase := 14
+global CircR := 14
+global CircSide := 1
+global CircLevel := 0
+global CircLast := 0
+global CircMaxMs := 5000
+global MarkScanSteps := 8       ; v5: шагов поворота камеры при поиске маркера (8 x 45 = круг)
+global MarkScanDeg := 45
+global MarkScanSettleMs := 260  ; пауза после шага, мс
+global CircScanEveryMs := 1800  ; при обходе точки: как часто останавливаться и осматриваться, мс
 global MarkSeenT := 0
 global MarkSeenW := 0
 global MarkNearSince := 0
@@ -891,6 +917,7 @@ NavStep() {
     global MarkSeenT, MarkSeenW, MarkStopW, InteractKey, NavLastInteract, MarkSeenX, MarkSeenY
     global CamDpc0, PendCnt, PendAng, PendT, NearSince, NavLastDist
     global ProactiveAvoid, NearL, NearR, AheadHits, LastAheadT, LastProact, ClearMin, BoltSearch
+    global DetourHoldUntil, CircLast, CircR, CamResetEveryMs, LastCamReset
     minfo := ""
     if (FindMarker(mkx, mky, mkw, minfo)) {
         NavBest := 0
@@ -954,7 +981,7 @@ NavStep() {
     dx := (bx - Mx(PlayerX)) / Sc
     dy := (by - My(PlayerY)) / Sc
     dist := Sqrt(dx * dx + dy * dy)
-    near := (dist <= ArriveR)
+    near := (dist <= ArriveR || (Now() - CircLast < 3000 && dist <= CircR * 2))
     NavLastDist := dist
     if (CamSteer && CamDpc != 0) {
         if (near) {
@@ -965,6 +992,8 @@ NavStep() {
         ; --- режим камеры: курс на молнию = "вверх" на карте. Поворачиваем камеру, W держим.
         ang := ATan2(dx, -dy) * 57.29578
         absA := Abs(ang)
+        if (Now() - LastCamReset > CamResetEveryMs)
+            CamReset()
         ; самонастройка: сравниваем, на сколько камера реально повернулась после прошлого поворота, и подправляем чувствительность
         if (PendT > 0 && Now() - PendT > 140) {
             if (dist > 25 && Abs(PendCnt) >= 25) {
@@ -981,13 +1010,14 @@ NavStep() {
             }
             PendT := 0
         }
-        if (!near && dist > ArriveR * 1.6 && absA > AimDeadDeg)
+        holding := (Now() < DetourHoldUntil)
+        if (!near && !holding && dist > ArriveR * 1.6 && absA > AimDeadDeg)
             AimTurn(ang, 1)
-        w := (near || absA < 100) ? 1 : 0
+        w := (near || holding || absA < 100) ? 1 : 0
         SetKeys(w, 0, 0, 0)
         NavStatus("NAV: " . (near ? "at point, looking for marker" : "running") . "  course " . Round(ang) . " deg  dist " . Round(dist))
         ; заранее: если пол вплотную по обе стороны от персонажа обрывается (поперёк пути стена/трансформатор) - обходим, не дожидаясь упора
-        if (ProactiveAvoid && w && absA < 40 && Now() - LastAheadT > 250) {
+        if (ProactiveAvoid && w && !holding && absA < 40 && Now() - LastAheadT > 250) {
             LastAheadT := Now()
             ClearScan(psl, psr, pci)
             if (NearL < ClearMin && NearR < ClearMin)
@@ -1020,7 +1050,7 @@ NavStep() {
         } else {
             StillSince := 0
         }
-        if (near || !w || absA > 60) {
+        if (near || holding || !w || absA > 60) {
             NavBest := 0
         } else if (NavBest = 0 || dist < NavBest - 1.5) {
             NavBest := dist
@@ -1254,7 +1284,8 @@ Wrap180(a) {
 
 ; Относительный поворот камеры мышью на cnt тиков (+ = вправо, если не инвертировано; знак определяет калибровка)
 CamTurnCnt(cnt) {
-    global CamStep, CamStepMs
+    global CamStep, CamStepMs, LastCamMoveT
+    LastCamMoveT := Now()
     cnt := Round(cnt)
     if (cnt = 0)
         return
@@ -1374,6 +1405,7 @@ Lm(p, w, x, y) {
 }
 
 FloorPx(p, w, h, x, y) {
+    global FloorLumMax, FloorFlat
     if (x < 7 || y < 6 || x >= w - 7 || y >= h - 6)
         return false
     c := NumGet(p + 0, (y * w + x) * 4, "UInt")
@@ -1381,9 +1413,9 @@ FloorPx(p, w, h, x, y) {
     g := (c >> 8) & 255
     b := c & 255
     l := (r * 3 + g * 6 + b) // 10
-    if (l < 18 || l > 130 || b - r > 11)
+    if (l < 18 || l > FloorLumMax || b - r > 11)
         return false
-    return (Max(Abs(Lm(p, w, x, y - 5) - l), Abs(Lm(p, w, x, y + 5) - l), Abs(Lm(p, w, x - 6, y) - l), Abs(Lm(p, w, x + 6, y) - l)) <= 14)
+    return (Max(Abs(Lm(p, w, x, y - 5) - l), Abs(Lm(p, w, x, y + 5) - l), Abs(Lm(p, w, x - 6, y) - l), Abs(Lm(p, w, x + 6, y) - l)) <= FloorFlat)
 }
 
 ClearScan(ByRef sL, ByRef sR, ByRef info) {
@@ -1453,9 +1485,16 @@ ClearScan(ByRef sL, ByRef sR, ByRef info) {
 
 ; Мы на точке (значок под стрелкой), а маркера не видно: постоять, затем обежать точку с другой стороны.
 NearHandle() {
-    global NearSince
-    if (NearSince = 0)
+    global NearSince, MarkScanSteps, MarkScanDeg
+    if (NearSince = 0) {
         NearSince := Now()
+        CamReset(1)
+        Status("NAV: at point, marker not visible - turning camera to look for it")
+        if (MarkerScan(MarkScanSteps, MarkScanDeg)) {
+            NearSince := 0
+            return
+        }
+    }
     ReleaseKeys()
     NavStatus("NAV: at point, marker not visible - looking, then going around")
     if (Now() - NearSince < 1300) {
@@ -1463,7 +1502,115 @@ NearHandle() {
         return
     }
     NearSince := 0
-    Orbit()
+    Circle()
+}
+
+; Клавиша C: камера возвращается за спину персонажа (если камера смотрит в пол). force=1 - без ограничений.
+CamReset(force := 0) {
+    global CamResetOn, CamResetKeyDn, CamResetKeyUp, LastCamReset, LastCamMoveT, DetourHoldUntil
+    if (!CamResetOn)
+        return
+    if (!force) {
+        if (Now() - LastCamReset < 2500 || Now() - LastCamMoveT < 1800 || Now() < DetourHoldUntil)
+            return
+    }
+    LastCamReset := Now()
+    Send, %CamResetKeyDn%
+    Sleep, % RandInt(35, 70)
+    Send, %CamResetKeyUp%
+    Sleep, 150
+}
+
+; Маркера не видно, а мы у точки: ходим вокруг неё по миникарте.
+; Камера всё время наведена на значок молнии, жмём A или D (боком) и W/S, чтобы держать радиус CircR.
+; Упёрлись (картинка не меняется) - другая сторона и радиус больше. Выход: виден маркер / открылось окно WATT / время.
+Circle() {
+    global Running, NavEnabled, CircSide, CircR, CircRBase, CircLevel, CircLast, CircMaxMs
+    global PlayerX, PlayerY, Sc, StillDiffMax, NavLastBolt, CircScanEveryMs
+    if (Now() - CircLast > 15000) {
+        CircLevel := 0
+        CircR := CircRBase
+        CircSide := (RandInt(1, 2) = 1) ? 1 : -1
+    }
+    t0 := Now()
+    CircLast := t0
+    lastScan := t0
+    stillT := 0
+    ReleaseKeys()
+    Status("NAV: marker hidden - circling the point by minimap, " . (CircSide > 0 ? "right" : "left") . ", radius " . Round(CircR))
+    while (Running && NavEnabled && Now() - t0 < CircMaxMs) {
+        if (FindMarker(mkx, mky, mkw, mi))
+            break
+        if (LedOn() || LedGreenOn())
+            break
+        if (Now() - lastScan > CircScanEveryMs) {
+            lastScan := Now()
+            if (MarkerScan(6, 50))
+                break
+        }
+        if (FindBolt(bx, by, bi)) {
+            NavLastBolt := Now()
+            dx := (bx - Mx(PlayerX)) / Sc
+            dy := (by - My(PlayerY)) / Sc
+            dist := Sqrt(dx * dx + dy * dy)
+            ang := ATan2(dx, -dy) * 57.29578
+        } else {
+            dist := 0
+            ang := 0
+        }
+        if (dist > CircR * 2.5)
+            break
+        if (dist >= 4 && Abs(ang) > 8)
+            AimTurn(ang)
+        wantW := (dist > CircR * 1.2 && Abs(ang) < 50) ? 1 : 0
+        wantS := (dist < CircR * 0.7) ? 1 : 0
+        wantD := (CircSide > 0) ? 1 : 0
+        wantA := (CircSide > 0) ? 0 : 1
+        PressKey("w", wantW)
+        PressKey("s", wantS)
+        PressKey("a", wantA)
+        PressKey("d", wantD)
+        PressKey("LShift", 0)
+        if (SceneDiff() < StillDiffMax) {
+            if (stillT = 0) {
+                stillT := Now()
+            } else if (Now() - stillT > 500) {
+                stillT := 0
+                ReleaseKeys()
+                CircSide := -CircSide
+                CircLevel++
+                CircR := Min(CircRBase + 7 * CircLevel, 36)
+                Status("NAV: blocked - circling the other way, radius " . Round(CircR))
+                Sleep, 80
+            }
+        } else {
+            stillT := 0
+        }
+        Sleep, 15
+    }
+    ReleaseKeys()
+    CircLast := Now()
+    Sleep, 40
+}
+
+; Крутим камеру шагами и ищем оранжевый маркер. true - нашли маркер (или открылось окно WATT).
+MarkerScan(steps, stepDeg) {
+    global Running, NavEnabled, MarkScanSettleMs
+    ReleaseKeys()
+    if (FindMarker(mkx, mky, mkw, mi))
+        return true
+    dir := (RandInt(1, 2) = 1) ? 1 : -1
+    Loop, %steps% {
+        if (!Running || !NavEnabled)
+            return false
+        CamTurnDeg(dir * stepDeg * RandF(0.9, 1.1))
+        Sleep, % Round(MarkScanSettleMs * RandF(0.9, 1.2))
+        if (FindMarker(mkx, mky, mkw, mi))
+            return true
+        if (LedOn() || LedGreenOn())
+            return true
+    }
+    return false
 }
 
 Orbit() {
@@ -1498,11 +1645,12 @@ Orbit() {
 ; Обход препятствия: смотрим, где пол уходит дальше (слева или справа), поворачиваем камеру туда и бежим;
 ; при повторном упоре за 9 с - другая сторона, больший угол, отход назад.
 Detour() {
-    global Running, DetourLevel, DetourLast, DetourSide, CamDpc, StillSince
+    global Running, DetourLevel, DetourLast, DetourSide, CamDpc, StillSince, DetourHoldUntil
     if (Now() - DetourLast > 9000)
         DetourLevel := 0
     DetourLast := Now()
     DetourLevel++
+    DetourHoldUntil := Now() + 2300 + 200 * Min(DetourLevel, 3)
     StillSince := 0
     ReleaseKeys()
     ok := ClearScan(sl, sr, ci)
@@ -1616,7 +1764,21 @@ Hyst(cur, v, on, off) {
 
 ; Эскалация при застревании: 1-й раз - прыжок и шаг вбок; повторно (в течение 9 с) - крутим камеру и ищем выход.
 StuckEscape() {
-    global CamSteer, CamDpc
+    global CamSteer, CamDpc, JumpOn, JumpLast, JumpTries, StillDiffMax
+    if (Now() - JumpLast > 9000)
+        JumpTries := 0
+    ; сначала пробуем прыгнуть (W остаётся зажатой): бордюр, кабель, низкая плита
+    if (JumpOn && JumpTries < 2) {
+        JumpTries++
+        JumpLast := Now()
+        SceneDiff()
+        Jump()
+        Sleep, 450
+        if (SceneDiff() > StillDiffMax * 1.6) {
+            Status("NAV: jumped - moving again")
+            return
+        }
+    }
     if (CamSteer && CamDpc != 0)
         Detour()
     else
@@ -1683,6 +1845,14 @@ Unstick() {
     PressKey("w", 1)
     Sleep, 450
     ReleaseKeys()
+}
+
+; Нажать пробел (прыжок), скан-код - не зависит от раскладки
+Jump() {
+    global JumpKeyDn, JumpKeyUp
+    Send, %JumpKeyDn%
+    Sleep, % RandInt(40, 90)
+    Send, %JumpKeyUp%
 }
 
 SetKeys(w, a, s, d) {
